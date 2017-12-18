@@ -34,17 +34,17 @@
 	"bs-insertfile-titleimage": "Inserir imagem",
 	"bs-insertfile-tipkeepratio": "Manter proporções",
 	"bs-insertfile-of": "de",
-	"bs-insertfile-select-a-link": "Selecionar ou escrever um link",
+	"bs-insertfile-select-a-link": "Selecionar ou introduzir uma hiperligação",
 	"bs-insertfile-linktext": "Mostrar texto",
-	"bs-insertfile-no-link": "Sem link",
+	"bs-insertfile-no-link": "Sem hiperligação",
 	"bs-insertfile-error-no-medialink": "Não foi selecionado nenhum link para um ficheiro multimédia.",
 	"bs-insertfile-error-no-imagelink": "Não foi selecionado nenhum link para uma imagem.",
 	"apihelp-bs-insertfile-license-store-description": "Lista as licenças para a extensão InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Lista as licenças para a extensão InsertFile.",
 	"bs-insertfile-enable-align": "Ativar",
-	"bs-insertfile-nstext": "Tipo de link",
+	"bs-insertfile-nstext": "Tipo de hiperligação",
 	"bs-insertfile-nstextfile": "Ficheiro",
-	"bs-insertfile-nstextfile-file": "Mostrar link para metadados",
+	"bs-insertfile-nstextfile-file": "Mostrar hiperligação para metadados",
 	"bs-insertfile-nstextfile-image": "Mostrar imagem",
-	"bs-insertfile-nstextmedia": "Mostrar link para download"
+	"bs-insertfile-nstextmedia": "Mostrar hiperligação de descarregamento"
 }
