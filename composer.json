@@ -2,7 +2,7 @@
 	"name": "mediawiki/blue-spice-insert-file",
 	"type": "mediawiki-extension",
 	"description": "Dialog to upload files and insert a file link",
-	"license": "GPL-3.0",
+	"license": "GPL-3.0-only",
 	"require": {
 		"composer/installers": "~1.0"
 	},
