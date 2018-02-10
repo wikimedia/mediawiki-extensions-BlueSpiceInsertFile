@@ -39,12 +39,8 @@ class InsertFile extends BsExtensionMW {
 	 * Initialise the InsertFile extension
 	 */
 	protected function initExt() {
-		wfProfileIn( 'BS::' . __METHOD__ );
-
 		$this->setHook( 'VisualEditorConfig' );
 		$this->setHook( 'BSExtendedEditBarBeforeEditToolbar' );
-
-		wfProfileOut( 'BS::' . __METHOD__ );
 	}
 
 	/**
