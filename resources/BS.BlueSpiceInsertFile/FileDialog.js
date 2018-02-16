@@ -1,6 +1,6 @@
 //This is just to have singleton access to the BaseDialog
-Ext.define( 'BS.InsertFile.FileDialog', {
-	extend: 'BS.InsertFile.BaseDialog',
+Ext.define( 'BS.BlueSpiceInsertFile.FileDialog', {
+	extend: 'BS.BlueSpiceInsertFile.BaseDialog',
 
 	singleton: true,
 	id: 'bs-InsertFile-dlg-window',

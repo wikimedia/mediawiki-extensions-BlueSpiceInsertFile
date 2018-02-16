@@ -1,20 +1,12 @@
-Ext.define( 'BS.InsertFile.BaseDialog', {
-	extend: 'BS.Window',
+Ext.define( 'BS.BlueSpiceInsertFile.BaseDialog', {
+	extend: 'MWExt.Dialog',
 	requires: [
-		'Ext.data.Store', 'Ext.form.TextField', 'Ext.ux.form.SearchField',
-		'Ext.Button', 'Ext.toolbar.Toolbar', 'Ext.grid.Panel', 'Ext.form.Panel',
-		'Ext.ux.grid.FiltersFeature', 'Ext.toolbar.Paging',
-		//Unfortunately 'Ext.ux.grid.FiltersFeature' only 'uses' those classes, but not 'requires' them...
-		'Ext.ux.grid.menu.ListMenu', 'Ext.ux.grid.menu.RangeMenu',
-		'Ext.ux.grid.filter.BooleanFilter', 'Ext.ux.grid.filter.DateFilter',
-		'Ext.ux.grid.filter.DateTimeFilter', 'Ext.ux.grid.filter.ListFilter',
-		'Ext.ux.grid.filter.NumericFilter', 'Ext.ux.grid.filter.StringFilter',
-		'BS.dialog.Upload', 'BS.model.File'
+		'MWExt.form.field.Search', 'BS.model.File','BS.dialog.Upload'
 	],
 	modal: true,
 	bodyPadding: 0,
-	width: 700,
-	height: 500,
+	width: 800,
+	height: 700,
 	layout: 'border',
 
 	storeFileType: 'file',
@@ -23,19 +15,16 @@ Ext.define( 'BS.InsertFile.BaseDialog', {
 	configPanel: {
 		fieldDefaults: {
 			labelAlign: 'right',
-			anchor: '100%'
+			anchor: '95%'
 		},
 		collapsible: true,
 		collapsed: true,
 		title: mw.message('bs-insertfile-details-title').plain(),
 		region: 'south',
-		height: 150,
-		bodyPadding: 5,
 		layout: 'anchor',
 		items: []
 	},
 
-	//HINT: 4.2.1/examples/grid/infinite-scroll-with-filter.js
 	afterInitComponent: function() {
 		this.conf = {
 			columns: {
@@ -44,24 +33,32 @@ Ext.define( 'BS.InsertFile.BaseDialog', {
 					dataIndex: 'file_thumbnail_url',
 					renderer: this.renderThumb,
 					width: 56,
-					sortable: false,
-					filterable: false
+					sortable: false
 				},{
 					text: mw.message('bs-insertfile-filename').plain(),
 					dataIndex: 'file_display_text',
-					flex: 1
+					flex: 1,
+					filter: {
+						 type: 'string'
+					}
 				},{
 					text: mw.message('bs-insertfile-filesize').plain(),
 					dataIndex: 'file_size',
 					renderer:this.renderSize,
-					width: 100
+					width: 100,
+					filter: {
+						 type: 'number'
+					}
 				},{
 					text: mw.message('bs-insertfile-lastmodified').plain(),
 					dataIndex: 'file_timestamp',
 					renderer:this.renderLastModified,
 					width: 150,
-					filterable: false //TODO: Use DateTimeFilter (needs to be supported by BSF)
-				}
+					filter: {
+						 type: 'date'
+					}
+				},
+				this.makeMimeTypeColumn()
 			],
 				defaults: {
 					tdCls: 'bs-if-cell',
@@ -71,7 +68,6 @@ Ext.define( 'BS.InsertFile.BaseDialog', {
 		};
 
 		this.stImageGrid = Ext.create('Ext.data.Store', {
-			height: 200,
 			pageSize: 25,
 			proxy: {
 				type: 'ajax',
@@ -97,17 +93,17 @@ Ext.define( 'BS.InsertFile.BaseDialog', {
 		});
 		this.stImageGrid.on( 'load', this.onStImageGridLoad, this );
 
-		this.sfFilter = Ext.create( 'Ext.ux.form.SearchField', {
+		this.sfFilter = new MWExt.form.field.Search( {
 			fieldLabel: mw.message('bs-insertfile-labelfilter').plain(),
 			width: 500,
 			labelWidth: 50,
 			store: this.stImageGrid,
-				listeners: {
-					change: function( field, newValue, oldValue, eOpts ) {
-						field.onTrigger2Click();
-						return true;
-					}
+			listeners: {
+				change: function( field, newValue, oldValue, eOpts ) {
+					field.onTrigger2Click();
+					return true;
 				}
+			}
 		});
 
 		this.dlgUpload = new BS.dialog.Upload({
@@ -150,18 +146,13 @@ Ext.define( 'BS.InsertFile.BaseDialog', {
 			} )
 		];
 
-		var filterFeature = this.makeGridFilterFeatureConfig();
-
 		this.gdImages = Ext.create('Ext.grid.Panel', {
 			region: 'center',
 			collapsible: false,
 			store: this.stImageGrid,
 			loadMask: true,
 			dockedItems: this.tbGridTools,
-			features: [ new Ext.ux.grid.FiltersFeature(filterFeature) ],
-			selModel: {
-				pruneRemoved: false
-			},
+			plugins: 'gridfilters',
 			viewConfig: {
 				trackOver: false,
 				emptyText: mw.message('bs-insertfile-nomatch').plain()
@@ -170,9 +161,6 @@ Ext.define( 'BS.InsertFile.BaseDialog', {
 		});
 
 		this.gdImages.on( 'select', this.onGdImagesSelect, this );
-		this.gdImages.on( 'afterrender', function(){
-			this.gdImages.filters.createFilters(); //This is required to have out default filters be applied on load!
-		}, this );
 
 		this.tfFileName = Ext.create('Ext.form.TextField', {
 			readOnly: true,
@@ -196,6 +184,7 @@ Ext.define( 'BS.InsertFile.BaseDialog', {
 		this.configPanel.items.unshift(this.tfLinkText);
 		this.tfFileName.on('change', this.onTfFileNameChange, this);
 
+		this.configPanel.height = 450;
 		this.pnlConfig = Ext.create('Ext.form.Panel', this.configPanel );
 		this.pnlConfig.on('expand', this.onPnlConfigExpand, this);
 
@@ -319,19 +308,15 @@ Ext.define( 'BS.InsertFile.BaseDialog', {
 		return null;
 	},
 
-	makeGridFilterFeatureConfig: function() {
+	makeMimeTypeColumn: function() {
 		return {
-			ftype: 'filters',
-			encode: true,
-			autoReload: true,
-			filters: [
-				{
-					active: true,
-					dataIndex: 'file_mimetype',
-					type: 'string',
-					value: { 'nct': 'image/' } //unfortunately there is no "not starts with"
-				}
-			]
+			dataIndex: 'file_mimetype',
+			hidden: true,
+			filter: {
+				 type: 'string',
+				 operator: 'nct',
+				 value: 'image/'
+			}
 		};
 	},
 
