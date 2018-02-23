@@ -5,7 +5,8 @@
 			"Alexandr Efremov",
 			"Kaganer",
 			"Redredsonia",
-			"Facenapalm"
+			"Facenapalm",
+			"Mouse21"
 		]
 	},
 	"bs-insertfile-desc": "Диалог загрузки файлов и вставки ссылки на файл",
@@ -44,5 +45,10 @@
 	"bs-insertfile-error-no-imagelink": "Ссылка на изображение не выбрано.",
 	"apihelp-bs-insertfile-license-store-description": "Перечисляет лицензии для расширения InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Перечисляет лицензии для расширения InsertFile.",
-	"bs-insertfile-enable-align": "Включить"
+	"bs-insertfile-enable-align": "Включить",
+	"bs-insertfile-nstext": "Тип ссылки",
+	"bs-insertfile-nstextfile": "Файл",
+	"bs-insertfile-nstextfile-file": "Показать ссылку на метаданные",
+	"bs-insertfile-nstextfile-image": "Показать изображение",
+	"bs-insertfile-nstextmedia": "Показать ссылку для скачивания"
 }
