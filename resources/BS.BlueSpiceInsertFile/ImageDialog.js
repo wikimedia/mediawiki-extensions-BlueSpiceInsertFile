@@ -1,12 +1,6 @@
 
-Ext.define( 'BS.InsertFile.ImageDialog', {
-	extend: 'BS.InsertFile.BaseDialog',
-	//'requires' and 'Ext.create(...)' are more or less the same. It may be
-	//more safe to use 'requires' at runtime.
-	requires: [
-		'Ext.form.ComboBox', 'Ext.form.field.Checkbox', 'Ext.Button',
-		'Ext.form.field.Number', 'Ext.form.RadioGroup', 'Ext.form.TextField'
-	],
+Ext.define( 'BS.BlueSpiceInsertFile.ImageDialog', {
+	extend: 'BS.BlueSpiceInsertFile.BaseDialog',
 
 	singleton: true,
 	id: 'bs-InsertImage-dlg-window',
@@ -17,7 +11,7 @@ Ext.define( 'BS.InsertFile.ImageDialog', {
 	storeFileType: 'image',
 
 	initComponent: function() {
-		this.cbPages = Ext.create( 'BS.form.field.TitleCombo', {
+		this.cbPages = new Ext.form.field.ComboBox({ //Ext.create( 'BS.form.field.TitleCombo', {
 			width: 350,
 			margin: '0 5 0 0'
 		});
@@ -166,9 +160,6 @@ Ext.define( 'BS.InsertFile.ImageDialog', {
 				xtype: 'fieldcontainer',
 				fieldLabel: mw.message('bs-insertfile-labeldimensions').plain(),
 				layout: 'hbox',
-				/*fieldDefaults: {
-					margin: '0 5 5 0'
-				},*/
 				items: [
 					this.nbWidth,
 					this.btnKeepRatio,
@@ -178,7 +169,7 @@ Ext.define( 'BS.InsertFile.ImageDialog', {
 			this.tfAlt
 		];
 
-		$(document).trigger("BSInsertFileInsertImageDialogAfterInit", [items]);
+		//$(document).trigger("BSInsertFileInsertImageDialogAfterInit", [items]);
 		this.configPanel.items = items;
 
 		this.callParent(arguments);
@@ -188,10 +179,10 @@ Ext.define( 'BS.InsertFile.ImageDialog', {
 		items[0].boxLabel = mw.message('bs-insertfile-nstextfile-image').plain();
 		return items;
 	},
-	//We need to set the
+
 	onStImageGridLoad: function( store, records, successful, eOpts ) {
 		//Only if we have a image selected
-		if( store.filters.items.length > 0 && records.length === 1 ) {
+		if( records.length === 1 ) {
 			//And only if the images has no width/height information
 			if( this.nbWidth.getValue() === null && this.nbHeight.getValue() === null ) {
 				var record = records[0];
@@ -419,10 +410,10 @@ Ext.define( 'BS.InsertFile.ImageDialog', {
 		}
 	},
 
-	makeGridFilterFeatureConfig: function() {
-		var filtersCfg = this.callParent( arguments );
-		filtersCfg.filters[0].value = { 'sw': 'image/' }; //Set to "starts with"; value is 'image/' defined by base class
-		return filtersCfg;
+	makeMimeTypeColumn: function() {
+		var column = this.callParent( arguments );
+		column.filter.operator = 'sw';
+		return column;
 	},
 
 	onCbxEnableAlign: function( sender, newValue, oldValue, eOpts ) {
