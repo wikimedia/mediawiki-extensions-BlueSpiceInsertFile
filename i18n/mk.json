@@ -38,5 +38,12 @@
 	"bs-insertfile-no-link": "Нема врска",
 	"bs-insertfile-error-no-medialink": "Немате одбрано врска на снимка.",
 	"bs-insertfile-error-no-imagelink": "Немате одбрано врска на слика.",
-	"apihelp-bs-insertfile-license-store-description": "Список на лиценци за додатокот „Вметни податотека“"
+	"apihelp-bs-insertfile-license-store-description": "Список на лиценци за додатокот „Вметни податотека“",
+	"apihelp-bs-insertfile-license-store-summary": "Список на лиценци за додатокот „Вметни податотека“",
+	"bs-insertfile-enable-align": "Овозможи",
+	"bs-insertfile-nstext": "Тип на врска",
+	"bs-insertfile-nstextfile": "Податотека",
+	"bs-insertfile-nstextfile-file": "Прикажувај врска до метаподатоците",
+	"bs-insertfile-nstextfile-image": "Прикажувај слики",
+	"bs-insertfile-nstextmedia": "Прикажувај врска за преземање"
 }
