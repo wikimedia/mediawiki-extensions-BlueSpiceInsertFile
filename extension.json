@@ -16,6 +16,9 @@
 			"extPath": "/BlueSpiceInsertFile"
 		}
 	},
+	"BlueSpiceVisualEditorConnectorPluginModules": [
+		"ext.bluespice.insertFile.visualEditorPlugin"
+	],
 	"APIModules": {
 		"bs-insertfile-license-store": "BSApiInsertFileLicenseStore"
 	},
@@ -79,6 +82,20 @@
 		"ext.bluespice.insertFile.styles": {
 			"styles": "bluespice.insertFile.css",
 			"targets": [ "desktop", "mobile" ]
+		},
+		"ext.bluespice.insertFile.visualEditorPlugin": {
+			"scripts": [
+				"bluespice.insertFile.visualEditorPlugin.js"
+			],
+			"styles": [
+				"bluespice.insertFile.visualEditorPlugin.less"
+			],
+			"messages": [
+				"bs-insertfile-advanced-search-panel-label"
+			],
+			"dependencies": [
+				"ext.bluespice.extjs"
+			]
 		}
 	},
 	"ResourceFileModulePaths": {
