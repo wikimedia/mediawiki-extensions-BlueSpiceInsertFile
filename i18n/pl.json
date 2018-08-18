@@ -33,5 +33,6 @@
 	"bs-insertfile-no-link": "Brak linku",
 	"bs-insertfile-nstext": "Typ łącza",
 	"bs-insertfile-nstextfile": "Plik",
-	"bs-insertfile-nstextmedia": "Multimedia"
+	"bs-insertfile-nstextfile-image": "Pokaż obrazek",
+	"bs-insertfile-nstextmedia": "Pokaż link pobierania"
 }
