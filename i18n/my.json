@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ninjastrikers"
+			"Ninjastrikers",
+			"Dr Lotus Black"
 		]
 	},
-	"bs-insertfile-uploaddescfilelabel": "အကျဉ်းချုပ်"
+	"bs-insertfile-nstextfile": "ဖိုင်"
 }
