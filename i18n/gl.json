@@ -34,7 +34,7 @@
 	"bs-insertfile-tipkeepratio": "Manter as proporcións",
 	"bs-insertfile-of": "de",
 	"bs-insertfile-select-a-link": "Seleccionar ou escribir unha ligazón",
-	"bs-insertfile-linktext": "Mostrar texto",
+	"bs-insertfile-linktext": "Amosar texto",
 	"bs-insertfile-no-link": "Sen ligazón",
 	"bs-insertfile-error-no-medialink": "Non se seleccionou ningunha ligazón de multimedia.",
 	"bs-insertfile-error-no-imagelink": "Non se seleccionou ningunha ligazón de imaxe.",
@@ -44,6 +44,6 @@
 	"bs-insertfile-nstext": "Tipo de ligazón",
 	"bs-insertfile-nstextfile": "Ficheiro",
 	"bs-insertfile-nstextfile-file": "Amosar ligazón ós metadatos",
-	"bs-insertfile-nstextfile-image": "Mostrar imaxe",
-	"bs-insertfile-nstextmedia": "Mostrar ligazón de descarga"
+	"bs-insertfile-nstextfile-image": "Amosar imaxe",
+	"bs-insertfile-nstextmedia": "Amosar ligazón de descarga"
 }
