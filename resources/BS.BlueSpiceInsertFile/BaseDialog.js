@@ -98,6 +98,7 @@ Ext.define( 'BS.BlueSpiceInsertFile.BaseDialog', {
 			width: 500,
 			labelWidth: 50,
 			store: this.stImageGrid,
+			paramName: 'file_name',
 			listeners: {
 				change: function( field, newValue, oldValue, eOpts ) {
 					field.onTrigger2Click();
