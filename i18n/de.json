@@ -3,7 +3,8 @@
 		"authors": [
 			"Stephan Muggli <muggli@hallowelt.biz>",
 			"Metalhead64",
-			"Umherirrender"
+			"Umherirrender",
+			"Hwboehm"
 		]
 	},
 	"bs-insertfile-desc": "Über ein Dialogfeld werden Dateien hochgeladen und angehängt",
@@ -19,7 +20,7 @@
 	"bs-insertfile-labelupload": "Hochladen",
 	"bs-insertfile-details-title": "Details",
 	"bs-insertfile-labeldimensions": "Maße (B x H)",
-	"bs-insertfile-labelalt": "Alternativ-Text",
+	"bs-insertfile-labelalt": "Alternativtext",
 	"bs-insertfile-labelalign": "Ausrichtung",
 	"bs-insertfile-labellink": "Verlinkung",
 	"bs-insertfile-alignnone": "keine",
