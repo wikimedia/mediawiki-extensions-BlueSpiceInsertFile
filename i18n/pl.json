@@ -34,5 +34,6 @@
 	"bs-insertfile-nstext": "Typ łącza",
 	"bs-insertfile-nstextfile": "Plik",
 	"bs-insertfile-nstextfile-image": "Pokaż obrazek",
-	"bs-insertfile-nstextmedia": "Pokaż link pobierania"
+	"bs-insertfile-nstextmedia": "Pokaż link pobierania",
+	"bs-insertfile-advanced-search-panel-label": "Wyszukiwanie zaawansowane"
 }

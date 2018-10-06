@@ -46,5 +46,6 @@
 	"bs-insertfile-nstextfile": "Arquivo",
 	"bs-insertfile-nstextfile-file": "Mostra links para metadados",
 	"bs-insertfile-nstextfile-image": "Mostrar imagem",
-	"bs-insertfile-nstextmedia": "Mostrar link de download"
+	"bs-insertfile-nstextmedia": "Mostrar link de download",
+	"bs-insertfile-advanced-search-panel-label": "Pesquisa avançada"
 }

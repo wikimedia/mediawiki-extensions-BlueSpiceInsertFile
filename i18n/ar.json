@@ -46,5 +46,6 @@
 	"bs-insertfile-nstextfile": "ملف",
 	"bs-insertfile-nstextfile-file": "إظهار الرابط إلى البيانات الوصفية",
 	"bs-insertfile-nstextfile-image": "عرض الصورة",
-	"bs-insertfile-nstextmedia": "عرض رابط التنزيل"
+	"bs-insertfile-nstextmedia": "عرض رابط التنزيل",
+	"bs-insertfile-advanced-search-panel-label": "البحث المتقدم"
 }

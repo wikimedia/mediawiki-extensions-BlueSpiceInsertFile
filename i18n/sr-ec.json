@@ -21,5 +21,6 @@
 	"bs-insertfile-enable-align": "Омогући",
 	"bs-insertfile-nstext": "Врста везе",
 	"bs-insertfile-nstextfile": "Датотека",
-	"bs-insertfile-nstextfile-image": "Прикажи слику"
+	"bs-insertfile-nstextfile-image": "Прикажи слику",
+	"bs-insertfile-advanced-search-panel-label": "Напредна претрага"
 }
