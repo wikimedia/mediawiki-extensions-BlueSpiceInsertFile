@@ -6,7 +6,8 @@
 			"Kaganer",
 			"Redredsonia",
 			"Facenapalm",
-			"Mouse21"
+			"Mouse21",
+			"Vlad5250"
 		]
 	},
 	"bs-insertfile-desc": "Диалог загрузки файлов и вставки ссылки на файл",
@@ -50,5 +51,6 @@
 	"bs-insertfile-nstextfile": "Файл",
 	"bs-insertfile-nstextfile-file": "Показать ссылку на метаданные",
 	"bs-insertfile-nstextfile-image": "Показать изображение",
-	"bs-insertfile-nstextmedia": "Показать ссылку для скачивания"
+	"bs-insertfile-nstextmedia": "Показать ссылку для скачивания",
+	"bs-insertfile-advanced-search-panel-label": "Расширенный поиск"
 }

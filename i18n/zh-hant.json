@@ -49,5 +49,6 @@
 	"bs-insertfile-nstextfile": "檔案",
 	"bs-insertfile-nstextfile-file": "顯示詮釋資料的連結",
 	"bs-insertfile-nstextfile-image": "顯示圖片",
-	"bs-insertfile-nstextmedia": "顯示下載連結"
+	"bs-insertfile-nstextmedia": "顯示下載連結",
+	"bs-insertfile-advanced-search-panel-label": "進階搜尋"
 }
