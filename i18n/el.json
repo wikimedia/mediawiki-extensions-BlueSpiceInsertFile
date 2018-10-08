@@ -39,5 +39,6 @@
 	"bs-insertfile-nstext": "Τύπος συνδέσμου",
 	"bs-insertfile-nstextfile": "Αρχείο",
 	"bs-insertfile-nstextfile-image": "Εμφάνιση εικόνας",
-	"bs-insertfile-nstextmedia": "Εμφάνιση συνδέσμου λήψης"
+	"bs-insertfile-nstextmedia": "Εμφάνιση συνδέσμου λήψης",
+	"bs-insertfile-advanced-search-panel-label": "Σύνθετη αναζήτηση"
 }

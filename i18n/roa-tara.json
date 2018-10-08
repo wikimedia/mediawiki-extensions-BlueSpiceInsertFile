@@ -38,5 +38,6 @@
 	"bs-insertfile-nstextfile": "File",
 	"bs-insertfile-nstextfile-file": "Fà 'ndrucà 'u collegamende a 'u metadate",
 	"bs-insertfile-nstextfile-image": "Fà 'ndrucà l'immaggine",
-	"bs-insertfile-nstextmedia": "Fà 'ndrucà 'u collegamende pe scarecà"
+	"bs-insertfile-nstextmedia": "Fà 'ndrucà 'u collegamende pe scarecà",
+	"bs-insertfile-advanced-search-panel-label": "Ricerche avanzate"
 }

@@ -41,10 +41,12 @@
 	"bs-insertfile-error-no-medialink": "Ingen medialänk vald.",
 	"bs-insertfile-error-no-imagelink": "Ingen bildlänk vald.",
 	"apihelp-bs-insertfile-license-store-description": "Listar licenserna för tillägget InsertFile.",
+	"apihelp-bs-insertfile-license-store-summary": "Listar upp licenser för tillägget InsertFile.",
 	"bs-insertfile-enable-align": "Aktivera",
 	"bs-insertfile-nstext": "Länktyp",
 	"bs-insertfile-nstextfile": "Fil",
 	"bs-insertfile-nstextfile-file": "Visa länk till metadata",
 	"bs-insertfile-nstextfile-image": "Visa bild",
-	"bs-insertfile-nstextmedia": "Visa nedladdningslänk"
+	"bs-insertfile-nstextmedia": "Visa nedladdningslänk",
+	"bs-insertfile-advanced-search-panel-label": "Avancerad sökning"
 }
