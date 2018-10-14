@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Liuxinyu970226",
-			"Fengchao"
+			"Fengchao",
+			"A Chinese Wikipedian"
 		]
 	},
 	"bs-insertfile-desc": "用于上传文件和插入文件连接的对话框",
@@ -46,5 +47,6 @@
 	"bs-insertfile-nstextfile": "文件",
 	"bs-insertfile-nstextfile-file": "显示至元数据的链接",
 	"bs-insertfile-nstextfile-image": "显示图像",
-	"bs-insertfile-nstextmedia": "显示下载链接"
+	"bs-insertfile-nstextmedia": "显示下载链接",
+	"bs-insertfile-advanced-search-panel-label": "高级搜索"
 }
