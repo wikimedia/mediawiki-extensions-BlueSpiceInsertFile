@@ -39,30 +39,7 @@ class InsertFile extends BsExtensionMW {
 	 * Initialise the InsertFile extension
 	 */
 	protected function initExt() {
-		$this->setHook( 'VisualEditorConfig' );
-	}
 
-	/**
-	 * Hook Handler for VisualEditorConfig Hook
-	 * @param Array $aConfigStandard reference
-	 * @param Array $aConfigOverwrite reference
-	 * @param Array &$aLoaderUsingDeps reference
-	 * @return boolean always true to keep hook alife
-	 */
-	public function onVisualEditorConfig( &$aConfigStandard, &$aConfigOverwrite, &$aLoaderUsingDeps ) {
-		$aLoaderUsingDeps[] = 'ext.bluespice.insertFile';
-
-		// TODO SW: use string as parameter !!
-		$iIndexStandard = array_search( 'unlink',$aConfigStandard["toolbar1"] );
-		array_splice( $aConfigStandard["toolbar1"], $iIndexStandard + 1, 0, "bsimage" );
-		array_splice( $aConfigStandard["toolbar1"], $iIndexStandard + 2, 0, "bsfile" );
-
-		$iIndexOverwrite = array_search( 'unlink',$aConfigOverwrite["toolbar2"] );
-		array_splice( $aConfigOverwrite["toolbar2"], $iIndexOverwrite + 1, 0, "bsimage" );
-
-		// Add context menu entry
-		$aConfigStandard["contextmenu"] = str_replace('bsContextMenuMarker', 'bsContextMenuMarker bsContextImage', $aConfigStandard["contextmenu"] );
-		return true;
 	}
 
 }
