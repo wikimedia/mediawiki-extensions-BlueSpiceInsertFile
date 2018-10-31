@@ -10,15 +10,27 @@
 	"descriptionmsg": "bs-insertfile-desc",
 	"type": "bluespice",
 	"license-name": "GPL-3.0-only",
-	"bsgExtensions": {
-		"BlueSpiceInsertFile": {
-			"className": "InsertFile",
-			"extPath": "/BlueSpiceInsertFile"
+	"requires": {
+		"MediaWiki": ">= 1.31.0",
+		"extensions": {
+			"BlueSpiceFoundation": ">= 3.0.0"
 		}
 	},
-	"BlueSpiceVisualEditorConnectorPluginModules": [
-		"ext.bluespice.insertFile.visualEditorPlugin"
-	],
+	"attributes": {
+		"BlueSpiceFoundation": {
+			"Extensions": {
+				"BlueSpiceInsertFile": {
+					"className": "\\BlueSpice\\InsertFile\\Extension",
+					"extPath": "/BlueSpiceInsertFile"
+				}
+			}
+		},
+		"BlueSpiceVisualEditorConnector": {
+			"PluginModules": [
+				"ext.bluespice.insertFile.visualEditorPlugin"
+			]
+		}
+	},
 	"APIModules": {
 		"bs-insertfile-license-store": "BSApiInsertFileLicenseStore"
 	},
@@ -27,8 +39,10 @@
 			"i18n"
 		]
 	},
+	"AutoloadNamespaces": {
+		"BlueSpice\\InsertFile\\": "src/"
+	},
 	"AutoloadClasses": {
-		"InsertFile": "InsertFile.class.php",
 		"JsonLicenses": "includes/JsonLicenses.php",
 		"BSApiInsertFileLicenseStore": "includes/api/BSApiInsertFileLicenseStore.php"
 	},
@@ -102,6 +116,6 @@
 		"localBasePath": "resources",
 		"remoteExtPath": "BlueSpiceInsertFile/resources"
 	},
-	"manifest_version": 1,
+	"manifest_version": 2,
 	"load_composer_autoloader": true
 }

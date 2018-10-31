@@ -30,16 +30,10 @@
  * @filesource
  */
 
+namespace BlueSpice\InsertFile;
+
 /**
  * Class for file upload and management assistent
  * @package BlueSpiceInsertFile
  */
-class InsertFile extends BsExtensionMW {
-	/**
-	 * Initialise the InsertFile extension
-	 */
-	protected function initExt() {
-
-	}
-
-}
+class Extension extends \BlueSpice\Extension {}
