@@ -40,7 +40,6 @@ class InsertFile extends BsExtensionMW {
 	 */
 	protected function initExt() {
 		$this->setHook( 'VisualEditorConfig' );
-		$this->setHook( 'BSExtendedEditBarBeforeEditToolbar' );
 	}
 
 	/**
@@ -63,22 +62,6 @@ class InsertFile extends BsExtensionMW {
 
 		// Add context menu entry
 		$aConfigStandard["contextmenu"] = str_replace('bsContextMenuMarker', 'bsContextMenuMarker bsContextImage', $aConfigStandard["contextmenu"] );
-		return true;
-	}
-
-	public function onBSExtendedEditBarBeforeEditToolbar( &$aRows, &$aButtonCfgs ) {
-		$this->getOutput()->addModuleStyles('ext.bluespice.insertFile.styles');
-		$this->getOutput()->addModules('ext.bluespice.insertFile');
-
-		$aRows[0]['dialogs'][20] = 'bs-editbutton-insertimage';
-		$aRows[0]['dialogs'][30] = 'bs-editbutton-insertfile';
-
-		$aButtonCfgs['bs-editbutton-insertimage'] = array(
-			'tip' => wfMessage( 'bs-insertfile-insert-image' )->plain()
-		);
-		$aButtonCfgs['bs-editbutton-insertfile'] = array(
-			'tip' => wfMessage( 'bs-insertfile-insert-file' )->plain()
-		);
 		return true;
 	}
 
