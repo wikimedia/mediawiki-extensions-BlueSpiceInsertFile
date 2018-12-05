@@ -1,10 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"StanProg"
+			"StanProg",
+			"ShockD"
 		]
 	},
-	"bs-insertfile-uploadsdisabled": "Качването на файлове в това уики е забранено.",
-	"bs-insertfile-error": "Грешка",
-	"bs-insertfile-license": "Лиценз"
+	"bs-insertfile-advanced-search-panel-label": "Разширено търсене"
 }
