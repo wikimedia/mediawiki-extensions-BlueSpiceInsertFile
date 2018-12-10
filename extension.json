@@ -90,12 +90,12 @@
 			"dependencies": [
 				"ext.bluespice.extjs",
 				"ext.bluespice.upload"
-			],
-			"targets": [ "desktop", "mobile" ]
+			]
 		},
 		"ext.bluespice.insertFile.styles": {
-			"styles": "bluespice.insertFile.css",
-			"targets": [ "desktop", "mobile" ]
+			"styles": [
+				"bluespice.insertFile.css"
+			]
 		},
 		"ext.bluespice.insertFile.visualEditorPlugin": {
 			"scripts": [
