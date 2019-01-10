@@ -47,5 +47,6 @@
 	"bs-insertfile-nstextfile": "Файл",
 	"bs-insertfile-nstextfile-file": "Показати посилання на метадані",
 	"bs-insertfile-nstextfile-image": "Показати зображення",
-	"bs-insertfile-nstextmedia": "Показати посилання на завантаження"
+	"bs-insertfile-nstextmedia": "Показати посилання на завантаження",
+	"bs-insertfile-advanced-search-panel-label": "Розширений пошук"
 }
