@@ -15,5 +15,6 @@
 	"bs-insertfile-select-a-link": "Valitse tai syötä linkki",
 	"bs-insertfile-no-link": "Ei linkkiä",
 	"bs-insertfile-error-no-medialink": "Medialinkkiä ei valittuna.",
-	"bs-insertfile-error-no-imagelink": "Kuvalinkkiä ei valittuna."
+	"bs-insertfile-error-no-imagelink": "Kuvalinkkiä ei valittuna.",
+	"bs-insertfile-advanced-search-panel-label": "Laajennettu haku"
 }
