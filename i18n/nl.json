@@ -43,5 +43,10 @@
 	"bs-insertfile-no-link": "Geen koppeling",
 	"bs-insertfile-error-no-medialink": "Geen mediakoppeling geselecteerd.",
 	"bs-insertfile-error-no-imagelink": "Geen afbeeldingskoppeling geselecteerd.",
+	"bs-insertfile-enable-align": "Inschakelen",
+	"bs-insertfile-nstext": "Koppelingstype",
+	"bs-insertfile-nstextfile": "Bestand",
+	"bs-insertfile-nstextfile-image": "Afbeelding weergeven",
+	"bs-insertfile-nstextmedia": "Downloadkoppeling weergeven",
 	"bs-insertfile-advanced-search-panel-label": "geavanceerd zoeken"
 }
