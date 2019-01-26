@@ -14,6 +14,8 @@
 	"bs-insertfile-lastmodified": "최근 바뀜",
 	"bs-insertfile-labelupload": "올리기",
 	"bs-insertfile-details-title": "세부사항",
+	"bs-insertfile-labeldimensions": "크기 (너비 x 높이)",
+	"bs-insertfile-labelalt": "대체 텍스트",
 	"bs-insertfile-labellink": "링크",
 	"bs-insertfile-alignnone": "없음",
 	"bs-insertfile-typeborder": "테두리",
