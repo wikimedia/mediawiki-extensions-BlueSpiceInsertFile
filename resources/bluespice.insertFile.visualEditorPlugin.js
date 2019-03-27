@@ -20,7 +20,11 @@ bs.vec.registerComponentPlugin(
 		component.searchTabs.on( 'set', function( selectedTab ) {
 			if( selectedTab === advancedSearchTab ) {
 				component.setSize( 'larger' );
-				if( fileRepoGrid === null ) {
+				component.actions.setAbilities( {cancel: true} );
+				component.searchTabs.toggleMenu( true );
+				component.actions.setMode( 'select' );
+				component.search.runLayoutQueue();
+				if ( fileRepoGrid === null ) {
 					mw.loader.using( 'ext.bluespice.extjs' ).done( function() {
 						Ext.onReady( function() {
 							fileRepoGrid = Ext.create( 'BS.grid.FileRepo', {
@@ -47,7 +51,7 @@ bs.vec.registerComponentPlugin(
 								};
 
 								component.chooseImageInfo( imageInfo );
-							})
+							} );
 						} );
 					} );
 				}
