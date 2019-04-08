@@ -7,6 +7,7 @@
 	"bs-insertfile-filename": "Filnavn",
 	"bs-insertfile-filesize": "Filstørrelse",
 	"bs-insertfile-lastmodified": "Seneste ændringer",
+	"bs-insertfile-details-title": "Detaljer",
 	"bs-insertfile-nstextfile": "Fil",
 	"bs-insertfile-advanced-search-panel-label": "Avanceret søgning"
 }
