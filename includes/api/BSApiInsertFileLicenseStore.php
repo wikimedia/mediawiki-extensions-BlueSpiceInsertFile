@@ -22,7 +22,7 @@
  * @author     Patric Wirth <wirth@hallowelt.com>
  * @package    BluespiceInsertFile
  * @copyright  Copyright (C) 2016 Hallo Welt! GmbH, All rights reserved.
- * @license    http://www.gnu.org/copyleft/gpl.html GNU Public License v3
+ * @license    http://www.gnu.org/copyleft/gpl.html GPL-3.0-only
  *
  * Example request parameters of an ExtJS store
  */
@@ -35,8 +35,8 @@ class BSApiInsertFileLicenseStore extends BSApiExtJSStoreBase {
 	 * will be done by the base class
 	 */
 	protected function makeData( $sQuery = '' ) {
-		//There is an api action "licences" in mw 2.24, but it is described as
-		//"Get media license dropdown HTML."
+		// There is an api action "licences" in mw 2.24, but it is described as
+		// "Get media license dropdown HTML."
 		$oLicenses = new JsonLicenses();
 		$aData = FormatJson::decode(
 			$oLicenses->getJsonOutput()
