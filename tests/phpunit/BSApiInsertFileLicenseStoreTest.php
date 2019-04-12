@@ -11,7 +11,6 @@
  * @group Database
  * @group medium
  */
-
 class BSApiInsertFileLicenseStoreTest extends ApiTestCase {
 	/**
 	 * Anything that needs to happen before your tests should go here.
@@ -24,7 +23,7 @@ class BSApiInsertFileLicenseStoreTest extends ApiTestCase {
 		$this->doLogin();
 	}
 
-	public function testMakeData(){
+	public function testMakeData() {
 		$data = $this->doApiRequest( [
 			'action' => 'bs-insertfile-license-store'
 		] );
