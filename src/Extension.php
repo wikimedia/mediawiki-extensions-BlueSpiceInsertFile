@@ -26,7 +26,7 @@
  * @author     Tobias Weichart <weichart@hallowelt.com>
  * @package    BlueSpiceInsertFile
  * @copyright  Copyright (C) 2016 Hallo Welt! GmbH, All rights reserved.
- * @license    http://www.gnu.org/copyleft/gpl.html GNU Public License v3
+ * @license    http://www.gnu.org/copyleft/gpl.html GPL-3.0-only
  * @filesource
  */
 
@@ -36,4 +36,5 @@ namespace BlueSpice\InsertFile;
  * Class for file upload and management assistent
  * @package BlueSpiceInsertFile
  */
-class Extension extends \BlueSpice\Extension {}
+class Extension extends \BlueSpice\Extension {
+}
