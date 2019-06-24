@@ -40,5 +40,11 @@
 	"bs-insertfile-no-link": "بدون پیوند",
 	"bs-insertfile-error-no-medialink": "پیوند هیچ پرونده‌ای انتخاب نشده‌است.",
 	"bs-insertfile-error-no-imagelink": "پیوند هیچ تصویری انتخاب نشده‌است.",
-	"bs-insertfile-nstextfile": "پرونده"
+	"bs-insertfile-enable-align": "فعال‌سازی",
+	"bs-insertfile-nstext": "نوع پیوند",
+	"bs-insertfile-nstextfile": "پرونده",
+	"bs-insertfile-nstextfile-file": "نمایش پیوند به فراداده‌ها",
+	"bs-insertfile-nstextfile-image": "نمایش تصویر",
+	"bs-insertfile-nstextmedia": "نمایش پیوند بارگیری",
+	"bs-insertfile-advanced-search-panel-label": "جستجوی پیشرفته"
 }
