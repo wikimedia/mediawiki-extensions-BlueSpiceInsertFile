@@ -99,6 +99,7 @@
 		},
 		"ext.bluespice.insertFile.visualEditorPlugin": {
 			"scripts": [
+				"bs.insertfile/ui/plugin/MWMediaDialog.js",
 				"bluespice.insertFile.visualEditorPlugin.js"
 			],
 			"styles": [
