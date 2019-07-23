@@ -109,7 +109,8 @@
 				"bs-insertfile-advanced-search-panel-label"
 			],
 			"dependencies": [
-				"ext.bluespice.extjs"
+				"ext.bluespice.extjs",
+				"ext.bluespice.upload"
 			]
 		}
 	},
