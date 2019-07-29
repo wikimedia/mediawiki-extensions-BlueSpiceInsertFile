@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Subi",
-			"Mikel Ibaiba"
+			"Mikel Ibaiba",
+			"Xabier Armendaritz"
 		]
 	},
 	"bs-insertfile-insert-image": "Irudia txertatu",
@@ -13,7 +14,7 @@
 	"bs-insertfile-lastmodified": "Aldaketa berriak",
 	"bs-insertfile-labelupload": "Igo",
 	"bs-insertfile-details-title": "Xehetasunak",
-	"bs-insertfile-labeldimensions": "Tamainia (z x h)",
+	"bs-insertfile-labeldimensions": "Tamaina (zabalera × garaiera)",
 	"bs-insertfile-labelalt": "Testu alternatiboa",
 	"bs-insertfile-labellink": "Lotura",
 	"bs-insertfile-alignnone": "bat ere ez",
