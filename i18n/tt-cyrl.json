@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ильнар"
+			"Ильнар",
+			"Ерней"
 		]
 	},
-	"bs-insertfile-enable-align": "Кабызу"
+	"bs-insertfile-enable-align": "Кабызу",
+	"bs-insertfile-labelfilter": "Сөзгеч:",
+	"bs-insertfile-labeldimensions": "Зурлык (к × б)"
 }

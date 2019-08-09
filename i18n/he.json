@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Guycn2"
+			"Guycn2",
+			"Erelon"
 		]
 	},
 	"bs-insertfile-desc": "תיבת דו־שיח להעלאת קבצים ולהוספת קישורים לקובץ",
@@ -45,5 +46,6 @@
 	"bs-insertfile-nstextfile": "קובץ",
 	"bs-insertfile-nstextfile-file": "הצגת קישור למטא־נתונים",
 	"bs-insertfile-nstextfile-image": "הצגת התמונה",
-	"bs-insertfile-nstextmedia": "הצגת קישור להורדה"
+	"bs-insertfile-nstextmedia": "הצגת קישור להורדה",
+	"bs-insertfile-advanced-search-panel-label": "חיפוש מתקדם"
 }
