@@ -47,56 +47,6 @@
 		"BSApiInsertFileLicenseStore": "includes/api/BSApiInsertFileLicenseStore.php"
 	},
 	"ResourceModules": {
-		"ext.bluespice.insertFile": {
-			"scripts": "bluespice.insertFile.js",
-			"messages": [
-				"bs-insertfile-button-image-title",
-				"bs-insertfile-button-file-title",
-				"bs-insertfile-nomatch",
-				"bs-insertfile-labelfilter",
-				"bs-insertfile-filename",
-				"bs-insertfile-filesize",
-				"bs-insertfile-lastmodified",
-				"bs-insertfile-labelupload",
-				"bs-insertfile-details-title",
-				"bs-insertfile-labeldimensions",
-				"bs-insertfile-labelalt",
-				"bs-insertfile-labelalign",
-				"bs-insertfile-labellink",
-				"bs-insertfile-alignnone",
-				"bs-insertfile-alignleft",
-				"bs-insertfile-aligncenter",
-				"bs-insertfile-alignright",
-				"bs-insertfile-labeltype",
-				"bs-insertfile-typenone",
-				"bs-insertfile-typethumb",
-				"bs-insertfile-typeframe",
-				"bs-insertfile-typeborder",
-				"bs-insertfile-titlefile",
-				"bs-insertfile-titleimage",
-				"bs-insertfile-tipkeepratio",
-				"bs-insertfile-select-a-link",
-				"bs-insertfile-linktext",
-				"bs-insertfile-no-link",
-				"bs-insertfile-error-no-imagelink",
-				"bs-insertfile-error-no-medialink",
-				"bs-insertfile-enable-align",
-				"bs-insertfile-nstext",
-				"bs-insertfile-nstextfile",
-				"bs-insertfile-nstextmedia",
-				"bs-insertfile-nstextfile-file",
-				"bs-insertfile-nstextfile-image"
-			],
-			"dependencies": [
-				"ext.bluespice.extjs",
-				"ext.bluespice.upload"
-			]
-		},
-		"ext.bluespice.insertFile.styles": {
-			"styles": [
-				"bluespice.insertFile.css"
-			]
-		},
 		"ext.bluespice.insertFile.visualEditorPlugin": {
 			"scripts": [
 				"bs.insertfile/ui/plugin/MWMediaDialog.js",
