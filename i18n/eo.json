@@ -20,5 +20,13 @@
 	"bs-insertfile-typethumb": "Miniaturo",
 	"bs-insertfile-titlefile": "Enmeti dosieron",
 	"bs-insertfile-titleimage": "Enmeti bildon",
-	"bs-insertfile-nstextfile": "Dosiero"
+	"bs-insertfile-nstextfile": "Dosiero",
+	"bs-insertfile-labeldimensions": "Grando (larĝo × alto)",
+	"bs-insertfile-labelalt": "Alternativa teksto",
+	"bs-insertfile-alignnone": "nenio",
+	"bs-insertfile-typenone": "nenio",
+	"bs-insertfile-enable-align": "Ŝalti",
+	"bs-insertfile-nstext": "Speco de ligilo",
+	"bs-insertfile-nstextfile-file": "Montri ligilon al metadateno",
+	"bs-insertfile-nstextfile-image": "Montri bildon"
 }
