@@ -46,7 +46,6 @@ bs.insertfile.ui.plugin.MWMediaDialog.prototype.initFileRepoGrid = function() {
 	this.fileRepoGrid = Ext.create( 'BS.grid.FileRepo', {
 		renderTo: this.advancedSearchTab.$element[0],
 		height: this.advancedSearchTab.$element.height(),
-		width: this.advancedSearchTab.$element.width(),
 		uploaderCfg: {}
 	} );
 
