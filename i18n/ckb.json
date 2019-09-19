@@ -3,7 +3,8 @@
 		"authors": [
 			"Sarchia",
 			"Lost Whispers",
-			"Épine"
+			"Épine",
+			"Muhammed taha"
 		]
 	},
 	"bs-insertfile-insert-image": "تێخستنی وێنە",
@@ -14,5 +15,5 @@
 	"bs-insertfile-enable-align": "کاراکردن",
 	"bs-insertfile-nstext": "جۆری بەستەر",
 	"bs-insertfile-nstextfile": "پەڕگە",
-	"bs-insertfile-nstextmedia": "میدیا"
+	"bs-insertfile-nstextmedia": "بەستەری داگرتن پیشانبدە"
 }
