@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pyscowicz"
+			"Pyscowicz",
+			"Silvonen"
 		]
 	},
 	"bs-insertfile-insert-image": "Lisää kuva",
@@ -22,6 +23,7 @@
 	"bs-insertfile-typethumb": "pienoiskuva",
 	"bs-insertfile-typeframe": "kehys",
 	"bs-insertfile-titlefile": "Lisää tiedosto",
+	"bs-insertfile-tipkeepratio": "Säilytä mittasuhteet",
 	"bs-insertfile-select-a-link": "Valitse tai syötä linkki",
 	"bs-insertfile-no-link": "Ei linkkiä",
 	"bs-insertfile-error-no-medialink": "Medialinkkiä ei valittuna.",
