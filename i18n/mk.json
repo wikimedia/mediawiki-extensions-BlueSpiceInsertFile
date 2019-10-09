@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bjankuloski06"
+			"Bjankuloski06",
+			"Vlad5250"
 		]
 	},
 	"bs-insertfile-desc": "Дијалог за подигање податотеки и нивно ставање во страници",
@@ -45,5 +46,6 @@
 	"bs-insertfile-nstextfile": "Податотека",
 	"bs-insertfile-nstextfile-file": "Прикажувај врска до метаподатоците",
 	"bs-insertfile-nstextfile-image": "Прикажувај слики",
-	"bs-insertfile-nstextmedia": "Прикажувај врска за преземање"
+	"bs-insertfile-nstextmedia": "Прикажувај врска за преземање",
+	"bs-insertfile-advanced-search-panel-label": "Напредно пребарување"
 }

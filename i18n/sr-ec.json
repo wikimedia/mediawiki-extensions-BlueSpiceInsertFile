@@ -5,7 +5,8 @@
 			"Сербијана",
 			"Obsuser",
 			"Милан Јелисавчић",
-			"BadDog"
+			"BadDog",
+			"Zoranzoki21"
 		]
 	},
 	"bs-insertfile-insert-image": "Уметни слику",
@@ -22,5 +23,31 @@
 	"bs-insertfile-nstext": "Врста везе",
 	"bs-insertfile-nstextfile": "Датотека",
 	"bs-insertfile-nstextfile-image": "Прикажи слику",
-	"bs-insertfile-advanced-search-panel-label": "Напредна претрага"
+	"bs-insertfile-advanced-search-panel-label": "Напредна претрага",
+	"bs-insertfile-button-image-title": "Уметни или измени слику",
+	"bs-insertfile-button-file-title": "Уметни или измени слику",
+	"bs-insertfile-nomatch": "Нема резултата",
+	"bs-insertfile-labelupload": "Отпремање",
+	"bs-insertfile-labelalign": "Подешавање",
+	"bs-insertfile-labellink": "Веза",
+	"bs-insertfile-alignnone": "ништа",
+	"bs-insertfile-alignleft": "лево",
+	"bs-insertfile-aligncenter": "центар",
+	"bs-insertfile-alignright": "десно",
+	"bs-insertfile-labeltype": "Декорација",
+	"bs-insertfile-typenone": "ништа",
+	"bs-insertfile-typethumb": "минијатура",
+	"bs-insertfile-typeborder": "ред",
+	"bs-insertfile-titleimage": "Убаци слику",
+	"bs-insertfile-tipkeepratio": "Остави пропорције",
+	"bs-insertfile-of": "од",
+	"bs-insertfile-select-a-link": "Одабери тип везе",
+	"bs-insertfile-linktext": "Текст за приказивање",
+	"bs-insertfile-no-link": "Нема везе",
+	"bs-insertfile-error-no-medialink": "Нема одабране везе медија.",
+	"bs-insertfile-error-no-imagelink": "Нема одабране везе слике.",
+	"apihelp-bs-insertfile-license-store-description": "Излистава лиценце за екстензију InsertFile.",
+	"apihelp-bs-insertfile-license-store-summary": "Излистава лиценце за екстензију InsertFile.",
+	"bs-insertfile-nstextfile-file": "Прикажи везу ка мета подацима.",
+	"bs-insertfile-nstextmedia": "Прикажи линк за преузимање."
 }

@@ -2,9 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"MIKHEIL",
-			"David1010"
+			"David1010",
+			"Otogi"
 		]
 	},
 	"bs-insertfile-filename": "ფაილის სახელი",
-	"bs-insertfile-labelupload": "ატვირთვა"
+	"bs-insertfile-labelupload": "ატვირთვა",
+	"bs-insertfile-advanced-search-panel-label": "გაფართოებული ძიება",
+	"bs-insertfile-enable-align": "ჩართვა"
 }

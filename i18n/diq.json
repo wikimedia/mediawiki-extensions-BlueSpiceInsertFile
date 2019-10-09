@@ -7,23 +7,24 @@
 			"Gırd"
 		]
 	},
-	"bs-insertfile-labelfilter": "Avrêc:",
+	"bs-insertfile-labelfilter": "Parzûn:",
 	"bs-insertfile-filename": "Namey Dosya",
 	"bs-insertfile-filesize": "Ebadê dosya",
-	"bs-insertfile-lastmodified": "Vırnayışê peyêni",
+	"bs-insertfile-lastmodified": "Vurnayışê peyêni",
 	"bs-insertfile-labelupload": "Bar ke",
 	"bs-insertfile-details-title": "Detayi",
 	"bs-insertfile-labeldimensions": "Ebat (w x h)",
-	"bs-insertfile-labelalt": "Metno alternatif",
+	"bs-insertfile-labelalt": "Metıno alternatif",
 	"bs-insertfile-labelalign": "Eyar kerdış",
 	"bs-insertfile-labellink": "Link",
-	"bs-insertfile-alignnone": "Hêçjew",
+	"bs-insertfile-alignnone": "çıniyo",
 	"bs-insertfile-alignleft": "çep",
 	"bs-insertfile-aligncenter": "merkez",
 	"bs-insertfile-alignright": "raşt",
 	"bs-insertfile-labeltype": "Dekorasyon",
-	"bs-insertfile-typenone": "Hêçjew",
-	"bs-insertfile-typethumb": "Resmo qıckek",
+	"bs-insertfile-typenone": "çıniyo",
+	"bs-insertfile-typethumb": "resımo qıckek",
 	"bs-insertfile-typeframe": "Çerçewe",
-	"bs-insertfile-typeborder": "Sinor"
+	"bs-insertfile-typeborder": "Sinor",
+	"bs-insertfile-nstextfile": "Dosya"
 }

@@ -5,5 +5,7 @@
 			"ShockD"
 		]
 	},
-	"bs-insertfile-advanced-search-panel-label": "Разширено търсене"
+	"bs-insertfile-enable-align": "Включване",
+	"bs-insertfile-advanced-search-panel-label": "Разширено търсене",
+	"bs-insertfile-lastmodified": "Последни промени"
 }

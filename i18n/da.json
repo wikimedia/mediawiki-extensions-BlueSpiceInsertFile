@@ -4,5 +4,16 @@
 			"Saederup92"
 		]
 	},
-	"bs-insertfile-advanced-search-panel-label": "Avanceret søgning"
+	"bs-insertfile-filename": "Filnavn",
+	"bs-insertfile-filesize": "Filstørrelse",
+	"bs-insertfile-lastmodified": "Seneste ændringer",
+	"bs-insertfile-details-title": "Detaljer",
+	"bs-insertfile-nstextfile": "Fil",
+	"bs-insertfile-advanced-search-panel-label": "Avanceret søgning",
+	"bs-insertfile-insert-image": "Indsæt billede",
+	"bs-insertfile-insert-file": "Indsæt fil",
+	"bs-insertfile-button-image-title": "Indsæt eller rediger billede",
+	"bs-insertfile-titlefile": "Indsæt fil",
+	"bs-insertfile-titleimage": "Indsæt billede",
+	"bs-insertfile-nstextfile-image": "Vis billede"
 }

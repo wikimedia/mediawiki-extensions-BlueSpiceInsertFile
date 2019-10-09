@@ -70,7 +70,7 @@ $(document).on( 'click', '#bs-editbutton-insertimage', function( e ){
 			if( data.nsText == 'media' ) {
 				data.nsText = formattedNamespaces[bs.ns.NS_MEDIA];
 			} else {
-				data.nsText = formattedNamespaces[bs.ns.NS_IMAGE];
+				data.nsText = formattedNamespaces[bs.ns.NS_FILE];
 			}
 			delete( data.imagename ); //Not recognized by wikiText.Link
 			delete( data.src );
@@ -85,7 +85,7 @@ $(document).on( 'click', '#bs-editbutton-insertimage', function( e ){
 		var selection = bs.util.selection.save();
 		if( selection !== '' ) {
 			var wikiLink = new bs.wikiText.Link( selection );
-			if( wikiLink.getNsId() !== bs.ns.NS_IMAGE && wikiLink.getNsId() !== bs.ns.NS_MEDIA ) {
+			if( wikiLink.getNsId() !== bs.ns.NS_FILE && wikiLink.getNsId() !== bs.ns.NS_MEDIA ) {
 				bs.util.alert(
 					'bs-insertfile-selection-alert',
 					{
@@ -207,11 +207,11 @@ $(document).bind('BsVisualEditorActionsInit', function( event, plugin, buttons, 
 					var imgAttrs = this.plugins.bswikicode.makeDefaultImageAttributesObject();
 					var formattedNamespaces = mw.config.get('wgFormattedNamespaces');
 
-					var nsText = formattedNamespaces[bs.ns.NS_IMAGE];
+					var nsText = formattedNamespaces[bs.ns.NS_FILE];
 					if( data.nsText == 'media' ) {
 						nsText = formattedNamespaces[bs.ns.NS_MEDIA];
 					}
-					data.imagename = formattedNamespaces[bs.ns.NS_IMAGE]+':'+data.imagename;
+					data.imagename = formattedNamespaces[bs.ns.NS_FILE]+':'+data.imagename;
 					data.mwborder = data.border;
 					var classAddition = '';
 					var styleAddition = '';

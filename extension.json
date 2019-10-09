@@ -1,6 +1,6 @@
 {
 	"name": "BlueSpiceInsertFile",
-	"version": "3.0.1",
+	"version": "3.1.0",
 	"url": "https://en.wiki.bluespice.com/wiki/Reference:InsertFile",
 	"author": [
 		"Markus Glaser",
@@ -11,9 +11,9 @@
 	"type": "bluespice",
 	"license-name": "GPL-3.0-only",
 	"requires": {
-		"MediaWiki": ">= 1.31.0",
+		"MediaWiki": "~1.31",
 		"extensions": {
-			"BlueSpiceFoundation": ">= 3.0.0"
+			"BlueSpiceFoundation": "~3.1"
 		}
 	},
 	"attributes": {
@@ -99,6 +99,7 @@
 		},
 		"ext.bluespice.insertFile.visualEditorPlugin": {
 			"scripts": [
+				"bs.insertfile/ui/plugin/MWMediaDialog.js",
 				"bluespice.insertFile.visualEditorPlugin.js"
 			],
 			"styles": [
@@ -108,7 +109,8 @@
 				"bs-insertfile-advanced-search-panel-label"
 			],
 			"dependencies": [
-				"ext.bluespice.extjs"
+				"ext.bluespice.extjs",
+				"ext.bluespice.upload"
 			]
 		}
 	},
