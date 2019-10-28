@@ -45,5 +45,6 @@
 	"bs-insertfile-nstextfile": "Fil",
 	"bs-insertfile-nstextfile-file": "Vis lenke til metadata",
 	"bs-insertfile-nstextfile-image": "Vis bilde",
-	"bs-insertfile-nstextmedia": "Vis nedlastingslenke"
+	"bs-insertfile-nstextmedia": "Vis nedlastingslenke",
+	"bs-insertfile-advanced-search-panel-label": "Avansert søk"
 }
