@@ -9,6 +9,7 @@
 			"Zoranzoki21"
 		]
 	},
+	"bs-insertfile-desc": "Дијалог за отпремање датотека и уметање везе до датотеке",
 	"bs-insertfile-insert-image": "Уметни слику",
 	"bs-insertfile-insert-file": "Уметните датотеку",
 	"bs-insertfile-button-image-title": "Уметни или измени слику",
@@ -20,6 +21,7 @@
 	"bs-insertfile-lastmodified": "Скорашње измене",
 	"bs-insertfile-labelupload": "Отпремање",
 	"bs-insertfile-details-title": "Детаљи",
+	"bs-insertfile-labeldimensions": "Величина (w x h)",
 	"bs-insertfile-labelalt": "Алтернативни текст",
 	"bs-insertfile-labelalign": "Подешавање",
 	"bs-insertfile-labellink": "Веза",
