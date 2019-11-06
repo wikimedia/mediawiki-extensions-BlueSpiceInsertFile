@@ -49,5 +49,7 @@
 	"apihelp-bs-insertfile-license-store-description": "Излистава лиценце за екстензију InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Излистава лиценце за екстензију InsertFile.",
 	"bs-insertfile-nstextfile-file": "Прикажи везу ка мета подацима.",
-	"bs-insertfile-nstextmedia": "Прикажи линк за преузимање."
+	"bs-insertfile-nstextmedia": "Прикажи линк за преузимање.",
+	"bs-insertfile-desc": "Дијалог за отпремање датотека и уметање везе до датотеке",
+	"bs-insertfile-labeldimensions": "Величина (w x h)"
 }
