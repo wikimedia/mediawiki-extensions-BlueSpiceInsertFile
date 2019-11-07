@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pyscowicz"
+			"Pyscowicz",
+			"Silvonen"
 		]
 	},
 	"bs-insertfile-insert-image": "Lisää kuva",
@@ -29,5 +30,6 @@
 	"bs-insertfile-nstextfile": "Tiedosto",
 	"bs-insertfile-nstextfile-image": "Näytä kuva",
 	"bs-insertfile-nstextmedia": "Näytä latauslinkki",
-	"bs-insertfile-advanced-search-panel-label": "Laajennettu haku"
+	"bs-insertfile-advanced-search-panel-label": "Laajennettu haku",
+	"bs-insertfile-tipkeepratio": "Säilytä mittasuhteet"
 }
