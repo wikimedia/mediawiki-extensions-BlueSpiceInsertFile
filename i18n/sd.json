@@ -10,5 +10,7 @@
 	"bs-insertfile-typeframe": "فريم",
 	"bs-insertfile-titlefile": "فائل وجھو",
 	"bs-insertfile-titleimage": "عڪس وجھو",
-	"bs-insertfile-enable-align": "قابل-بڻايو"
+	"bs-insertfile-enable-align": "قابل-بڻايو",
+	"bs-insertfile-alignnone": "ڪوبہ نہ",
+	"bs-insertfile-typenone": "ڪوبہ نہ"
 }
