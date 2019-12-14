@@ -23,6 +23,10 @@ class BSApiInsertFileLicenseStoreTest extends ApiTestCase {
 		$this->doLogin();
 	}
 
+	/**
+	 * @covers \BSApiInsertFileLicenseStore::execute
+	 * @return array
+	 */
 	public function testMakeData() {
 		$data = $this->doApiRequest( [
 			'action' => 'bs-insertfile-license-store'
