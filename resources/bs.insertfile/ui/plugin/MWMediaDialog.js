@@ -50,7 +50,7 @@ bs.insertfile.ui.plugin.MWMediaDialog.prototype.initFileRepoGrid = function() {
 	} );
 
 	this.fileRepoGrid.on( 'select', this.onFileRepoGridSelect, this );
-}
+};
 
 /**
  * Required fields extracted from https://github.com/wikimedia/mediawiki-extensions-VisualEditor/blob/b8bcba8cbeb38f9be8232c77140b04e8da1040cc/modules/ve-mw/ui/dialogs/ve.ui.MWMediaDialog.js#L476-L718
@@ -60,7 +60,7 @@ bs.insertfile.ui.plugin.MWMediaDialog.prototype.initFileRepoGrid = function() {
  * @returns void
  */
 bs.insertfile.ui.plugin.MWMediaDialog.prototype.onFileRepoGridSelect = function( sender, record, eOpts ) {
-	imageInfo = {
+	var imageInfo = {
 		title: record.get( 'page_prefixed_text' ),
 		extmetadata: [], //Not available from 'bs-filerepo-store' API
 		user: record.get( 'file_user_text' ),
@@ -75,4 +75,4 @@ bs.insertfile.ui.plugin.MWMediaDialog.prototype.onFileRepoGridSelect = function(
 	};
 
 	this.component.chooseImageInfo( imageInfo );
-}
+};
