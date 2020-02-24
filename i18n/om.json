@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tumsaa"
+			"Tumsaa",
+			"Oromoo"
 		]
 	},
 	"bs-insertfile-insert-image": "Suura galchi",
 	"bs-insertfile-filesize": "Guddina faayilii",
 	"bs-insertfile-lastmodified": "Jijjiirama dhihoo",
-	"bs-insertfile-labellink": "Liinkii",
+	"bs-insertfile-labellink": "Geessituu",
 	"bs-insertfile-alignleft": "Bitaa",
 	"bs-insertfile-aligncenter": "Gidduu",
 	"bs-insertfile-alignright": "Mirga",
