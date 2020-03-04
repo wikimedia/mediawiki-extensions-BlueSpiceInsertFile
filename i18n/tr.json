@@ -22,7 +22,7 @@
 	"bs-insertfile-lastmodified": "Son değişiklikler",
 	"bs-insertfile-labelupload": "Yükle",
 	"bs-insertfile-details-title": "Ayrıntılar",
-	"bs-insertfile-labeldimensions": "Boyut (w x h)",
+	"bs-insertfile-labeldimensions": "Boyut (g x y)",
 	"bs-insertfile-labelalt": "Alternatif metin",
 	"bs-insertfile-labelalign": "Ayarlama",
 	"bs-insertfile-alignnone": "hiçbiri",
