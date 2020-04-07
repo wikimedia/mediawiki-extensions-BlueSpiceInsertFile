@@ -1,12 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01",
-			"Сербијана",
-			"Obsuser",
-			"Милан Јелисавчић",
 			"BadDog",
-			"Zoranzoki21"
+			"Milicevic01",
+			"Obsuser",
+			"Zoranzoki21",
+			"Милан Јелисавчић",
+			"Сербијана"
 		]
 	},
 	"bs-insertfile-desc": "Дијалог за отпремање датотека и уметање везе до датотеке",
