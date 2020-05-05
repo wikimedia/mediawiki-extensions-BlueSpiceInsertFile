@@ -11,6 +11,8 @@
 	"bs-insertfile-filesize": "Filstørrelse",
 	"bs-insertfile-lastmodified": "Seneste ændringer",
 	"bs-insertfile-details-title": "Detaljer",
+	"bs-insertfile-alignnone": "ingen",
+	"bs-insertfile-typenone": "ingen",
 	"bs-insertfile-titlefile": "Indsæt fil",
 	"bs-insertfile-titleimage": "Indsæt billede",
 	"bs-insertfile-enable-align": "Aktiver",
