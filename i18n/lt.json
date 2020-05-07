@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zygimantus",
 			"Eitvys200",
-			"Nuodas"
+			"Nuodas",
+			"Zygimantus"
 		]
 	},
 	"bs-insertfile-desc": "Dialogas failų įkėlimui ir failo nuorodos įterpimui",

@@ -4,5 +4,7 @@
 			"Joao Xavier"
 		]
 	},
-	"bs-insertfile-enable-align": "Permisar"
+	"bs-insertfile-enable-align": "Permisar",
+	"bs-insertfile-labelupload": "Kargar",
+	"bs-insertfile-labeldimensions": "Grandeso (w x h)"
 }

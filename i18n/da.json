@@ -15,5 +15,8 @@
 	"bs-insertfile-button-image-title": "Indsæt eller rediger billede",
 	"bs-insertfile-titlefile": "Indsæt fil",
 	"bs-insertfile-titleimage": "Indsæt billede",
-	"bs-insertfile-nstextfile-image": "Vis billede"
+	"bs-insertfile-nstextfile-image": "Vis billede",
+	"bs-insertfile-alignnone": "ingen",
+	"bs-insertfile-typenone": "ingen",
+	"bs-insertfile-enable-align": "Aktiver"
 }

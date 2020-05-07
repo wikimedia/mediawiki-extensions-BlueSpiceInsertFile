@@ -1,12 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sjoerddebruin",
-			"SPQRobin",
-			"Siebrand",
 			"Esketti",
 			"Mainframe98",
-			"Ndecouck"
+			"Ndecouck",
+			"SPQRobin",
+			"Siebrand",
+			"Sjoerddebruin"
 		]
 	},
 	"bs-insertfile-desc": "Het dialoogvenster voor het uploaden van bestanden en het invoegen van een koppeling naar een bestand",

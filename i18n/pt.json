@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vitorvicentevalente",
-			"Hamilton Abreu"
+			"Hamilton Abreu",
+			"Vitorvicentevalente"
 		]
 	},
 	"bs-insertfile-desc": "Diálogo para carregar ficheiros e inserir uma hiperligação para um ficheiro",

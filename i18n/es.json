@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
+			"AVIADOR",
 			"Fitoschido",
-			"Macofe",
-			"AVIADOR"
+			"Macofe"
 		]
 	},
 	"bs-insertfile-desc": "Cuadro de diálogo para subir archivos e insertar un enlace de archivo",
