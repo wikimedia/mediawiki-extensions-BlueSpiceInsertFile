@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"BaRaN6161 TURK",
 			"Liuxinyu970226",
 			"Mglaser",
 			"Shirayuki",
@@ -22,7 +23,7 @@
 	"bs-insertfile-details-title": "Tab text for details \n{{Identical|Detail}}",
 	"bs-insertfile-labeldimensions": "Label text for size (w x h).\n* \"w\" stands for width \n* \"h\" stands for height \n{{Identical|Size}}",
 	"bs-insertfile-labelalt": "Label text for alternative text \n{{Identical|Alternative text}}",
-	"bs-insertfile-labelalign": "Used as label text for the radio button group having the following items:\n* {{msg-mw|Bs-insertfile-alignnone}}\n* {{msg-mw|Bs-insertfile-alignleft}}\n* {{msg-mw|Bs-insertfile-aligncenter}}\n* {{msg-mw|Bs-insertfile-alignright}}\n{{Identical|Adjustment}}",
+	"bs-insertfile-labelalign": "Used as label text for the radio button group having the following items:\n* {{msg-mw|Bs-insertfile-alignnone}}\n* {{msg-mw|Bs-insertfile-alignleft}}\n* {{msg-mw|Bs-insertfile-aligncenter}}\n* {{msg-mw|Bs-insertfile-alignright}}",
 	"bs-insertfile-labellink": "Label text for link \n{{Identical|Link}}",
 	"bs-insertfile-alignnone": "Radio label text for none \n{{Identical|None}}",
 	"bs-insertfile-alignleft": "Radio label text for left \n{{Identical|Left}}",
