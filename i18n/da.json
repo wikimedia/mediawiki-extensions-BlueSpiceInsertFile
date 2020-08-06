@@ -18,5 +18,10 @@
 	"bs-insertfile-nstextfile-image": "Vis billede",
 	"bs-insertfile-alignnone": "ingen",
 	"bs-insertfile-typenone": "ingen",
-	"bs-insertfile-enable-align": "Aktiver"
+	"bs-insertfile-enable-align": "Aktiver",
+	"bs-insertfile-alignleft": "venstre",
+	"bs-insertfile-aligncenter": "centreret",
+	"bs-insertfile-alignright": "højre",
+	"bs-insertfile-labeltype": "Dekoration",
+	"bs-insertfile-of": "af"
 }

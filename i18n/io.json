@@ -6,5 +6,9 @@
 	},
 	"bs-insertfile-enable-align": "Permisar",
 	"bs-insertfile-labelupload": "Kargar",
-	"bs-insertfile-labeldimensions": "Grandeso (w x h)"
+	"bs-insertfile-labeldimensions": "Grandeso (w x h)",
+	"bs-insertfile-insert-file": "Inkluzar arkivo",
+	"bs-insertfile-alignnone": "nulo",
+	"bs-insertfile-typenone": "nulo",
+	"bs-insertfile-titlefile": "Inkluzar arkivo"
 }
