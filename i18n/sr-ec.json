@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"BadDog",
+			"Kizule",
 			"Milicevic01",
 			"Obsuser",
 			"Zoranzoki21",
@@ -38,7 +39,7 @@
 	"bs-insertfile-titleimage": "Убаци слику",
 	"bs-insertfile-tipkeepratio": "Остави пропорције",
 	"bs-insertfile-of": "од",
-	"bs-insertfile-select-a-link": "Одабери тип везе",
+	"bs-insertfile-select-a-link": "Изаберите или откуцајте линк",
 	"bs-insertfile-linktext": "Текст за приказ",
 	"bs-insertfile-no-link": "Нема везе",
 	"bs-insertfile-error-no-medialink": "Нема одабране везе медија.",

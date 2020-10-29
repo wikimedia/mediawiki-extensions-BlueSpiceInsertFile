@@ -18,5 +18,11 @@
 	"bs-insertfile-enable-align": "Aktiver",
 	"bs-insertfile-nstextfile": "Fil",
 	"bs-insertfile-nstextfile-image": "Vis billede",
-	"bs-insertfile-advanced-search-panel-label": "Avanceret søgning"
+	"bs-insertfile-advanced-search-panel-label": "Avanceret søgning",
+	"bs-insertfile-alignleft": "venstre",
+	"bs-insertfile-aligncenter": "centreret",
+	"bs-insertfile-alignright": "højre",
+	"bs-insertfile-labeltype": "Dekoration",
+	"bs-insertfile-typeframe": "ramme",
+	"bs-insertfile-of": "af"
 }
