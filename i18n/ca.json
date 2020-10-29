@@ -3,12 +3,13 @@
 		"authors": [
 			"Edustus",
 			"Fitoschido",
+			"Mguix",
 			"Paucabot"
 		]
 	},
 	"bs-insertfile-insert-image": "Inserir una imatge",
 	"bs-insertfile-filename": "Nom del fitxer",
-	"bs-insertfile-labeldimensions": "Mida (amplada × alçada)",
+	"bs-insertfile-labeldimensions": "Mida (amplada × alçària)",
 	"bs-insertfile-alignleft": "esquerra",
 	"bs-insertfile-alignright": "dreta",
 	"bs-insertfile-labeltype": "Decoració",
