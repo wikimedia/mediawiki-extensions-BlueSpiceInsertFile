@@ -23,5 +23,6 @@
 	"bs-insertfile-aligncenter": "centreret",
 	"bs-insertfile-alignright": "højre",
 	"bs-insertfile-labeltype": "Dekoration",
-	"bs-insertfile-of": "af"
+	"bs-insertfile-of": "af",
+	"bs-insertfile-typeframe": "ramme"
 }
