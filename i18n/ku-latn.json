@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Balyozxane",
 			"George Animal",
 			"Ghybu",
 			"Guherto"
@@ -9,7 +10,7 @@
 	"bs-insertfile-insert-file": "Dosyeyek tevlî bike",
 	"bs-insertfile-labelfilter": "Parzûn:",
 	"bs-insertfile-filename": "Navê dosyeyê",
-	"bs-insertfile-lastmodified": "Guhertinên dawî",
+	"bs-insertfile-lastmodified": "Guhartinên dawî",
 	"bs-insertfile-labelupload": "Bar bike",
 	"bs-insertfile-labellink": "Girêdan",
 	"bs-insertfile-alignright": "rast",
@@ -17,5 +18,6 @@
 	"bs-insertfile-typethumb": "thumbnail",
 	"bs-insertfile-titlefile": "Dosyeyek tevlî bike",
 	"bs-insertfile-select-a-link": "Girêdanekê hilbijêre an jî binivîse",
-	"bs-insertfile-no-link": "Girêdan tune"
+	"bs-insertfile-no-link": "Girêdan tune",
+	"bs-insertfile-advanced-search-panel-label": "Lêgerîna pêşketî"
 }
