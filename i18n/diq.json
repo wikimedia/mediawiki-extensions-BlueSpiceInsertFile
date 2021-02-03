@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kumkumuk",
-			"Mirzali",
 			"Asmen",
-			"Gırd"
+			"Gırd",
+			"Kumkumuk",
+			"Mirzali"
 		]
 	},
 	"bs-insertfile-labelfilter": "Parzûn:",
@@ -16,7 +16,7 @@
 	"bs-insertfile-labeldimensions": "Ebat (w x h)",
 	"bs-insertfile-labelalt": "Metıno alternatif",
 	"bs-insertfile-labelalign": "Eyar kerdış",
-	"bs-insertfile-labellink": "Link",
+	"bs-insertfile-labellink": "Gıre",
 	"bs-insertfile-alignnone": "çıniyo",
 	"bs-insertfile-alignleft": "çep",
 	"bs-insertfile-aligncenter": "merkez",

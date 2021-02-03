@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Stephan Muggli <muggli@hallowelt.biz>",
+			"Hwboehm",
 			"Metalhead64",
-			"Umherirrender",
-			"Hwboehm"
+			"Stephan Muggli <muggli@hallowelt.biz>",
+			"Umherirrender"
 		]
 	},
 	"bs-insertfile-desc": "Über ein Dialogfeld werden Dateien hochgeladen und angehängt",

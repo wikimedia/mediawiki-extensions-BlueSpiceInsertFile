@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sayginer",
+			"BaRaN6161 TURK",
 			"KediÇobanı",
-			"Trockya",
-			"BaRaN6161 TURK"
+			"Sayginer",
+			"Trockya"
 		]
 	},
 	"bs-insertfile-filename": "Dosya adı",
@@ -22,22 +22,22 @@
 	"bs-insertfile-lastmodified": "Son değişiklikler",
 	"bs-insertfile-labelupload": "Yükle",
 	"bs-insertfile-details-title": "Ayrıntılar",
-	"bs-insertfile-labeldimensions": "Boyut (w x h)",
+	"bs-insertfile-labeldimensions": "Boyut (g x y)",
 	"bs-insertfile-labelalt": "Alternatif metin",
 	"bs-insertfile-labelalign": "Ayarlama",
 	"bs-insertfile-alignnone": "hiçbiri",
 	"bs-insertfile-alignleft": "sol",
-	"bs-insertfile-aligncenter": "orta",
+	"bs-insertfile-aligncenter": "merkez",
 	"bs-insertfile-alignright": "sağ",
 	"bs-insertfile-labeltype": "Dekorasyon",
 	"bs-insertfile-typenone": "hiçbiri",
 	"bs-insertfile-typethumb": "küçük resim",
 	"bs-insertfile-typeframe": "çerçeve",
-	"bs-insertfile-typeborder": "sınır",
+	"bs-insertfile-typeborder": "kenarlık",
 	"bs-insertfile-titlefile": "Dosya ekle",
 	"bs-insertfile-titleimage": "Resim ekle",
 	"bs-insertfile-tipkeepratio": "Oranları koru",
-	"bs-insertfile-of": "dan",
+	"bs-insertfile-of": "üzerinden",
 	"bs-insertfile-select-a-link": "Bir bağlantı seçin veya yazın",
 	"bs-insertfile-no-link": "Bağlantı yok",
 	"bs-insertfile-error-no-medialink": "Hiçbir medya bağlantısı seçilmedi.",

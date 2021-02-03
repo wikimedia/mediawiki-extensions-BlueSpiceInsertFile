@@ -15,5 +15,14 @@
 	"bs-insertfile-button-image-title": "Indsæt eller rediger billede",
 	"bs-insertfile-titlefile": "Indsæt fil",
 	"bs-insertfile-titleimage": "Indsæt billede",
-	"bs-insertfile-nstextfile-image": "Vis billede"
+	"bs-insertfile-nstextfile-image": "Vis billede",
+	"bs-insertfile-alignnone": "ingen",
+	"bs-insertfile-alignleft": "venstre",
+	"bs-insertfile-aligncenter": "centreret",
+	"bs-insertfile-alignright": "højre",
+	"bs-insertfile-labeltype": "Dekoration",
+	"bs-insertfile-typenone": "ingen",
+	"bs-insertfile-typeframe": "ramme",
+	"bs-insertfile-of": "af",
+	"bs-insertfile-enable-align": "Aktiver"
 }

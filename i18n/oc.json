@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"BrennodAloisi",
 			"Cedric31"
 		]
 	},
@@ -23,7 +24,7 @@
 	"bs-insertfile-alignright": "Dreita",
 	"bs-insertfile-labeltype": "Decoracion",
 	"bs-insertfile-typenone": "pas cap",
-	"bs-insertfile-typethumb": "vinheta",
+	"bs-insertfile-typethumb": "miniatura",
 	"bs-insertfile-typeframe": "quadre",
 	"bs-insertfile-typeborder": "bordadura",
 	"bs-insertfile-titlefile": "Inserir un fichièr",

@@ -1,9 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ата",
 			"Piramidion",
-			"SimondR"
+			"SimondR",
+			"Ата"
 		]
 	},
 	"bs-insertfile-desc": "Діалог завантаження файлів і вставлення посилання на файл",

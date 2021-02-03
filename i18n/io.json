@@ -4,5 +4,12 @@
 			"Joao Xavier"
 		]
 	},
-	"bs-insertfile-enable-align": "Permisar"
+	"bs-insertfile-enable-align": "Permisar",
+	"bs-insertfile-insert-file": "Inkluzar arkivo",
+	"bs-insertfile-labelupload": "Kargar",
+	"bs-insertfile-labeldimensions": "Grandeso (w x h)",
+	"bs-insertfile-alignnone": "nulo",
+	"bs-insertfile-alignleft": "sinistre",
+	"bs-insertfile-typenone": "nulo",
+	"bs-insertfile-titlefile": "Inkluzar arkivo"
 }

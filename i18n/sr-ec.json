@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Milicevic01",
-			"Сербијана",
-			"Obsuser",
-			"Милан Јелисавчић",
 			"BadDog",
-			"Zoranzoki21"
+			"Kizule",
+			"Milicevic01",
+			"Obsuser",
+			"Zoranzoki21",
+			"Милан Јелисавчић",
+			"Сербијана"
 		]
 	},
 	"bs-insertfile-insert-image": "Уметни слику",
@@ -41,8 +42,8 @@
 	"bs-insertfile-titleimage": "Убаци слику",
 	"bs-insertfile-tipkeepratio": "Остави пропорције",
 	"bs-insertfile-of": "од",
-	"bs-insertfile-select-a-link": "Одабери тип везе",
-	"bs-insertfile-linktext": "Текст за приказивање",
+	"bs-insertfile-select-a-link": "Изаберите или откуцајте линк",
+	"bs-insertfile-linktext": "Текст за приказ",
 	"bs-insertfile-no-link": "Нема везе",
 	"bs-insertfile-error-no-medialink": "Нема одабране везе медија.",
 	"bs-insertfile-error-no-imagelink": "Нема одабране везе слике.",
