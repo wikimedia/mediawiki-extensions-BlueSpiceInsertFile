@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"J budissin"
+		]
+	},
+	"bs-insertfile-nomatch": "Žane wuslědki",
+	"bs-insertfile-filesize": "Wulkosć dataje",
+	"bs-insertfile-labelupload": "Nahrać",
+	"bs-insertfile-details-title": "Podrobnosće",
+	"bs-insertfile-alignnone": "žane",
+	"bs-insertfile-alignleft": "nalěwo",
+	"bs-insertfile-aligncenter": "srjedźa",
+	"bs-insertfile-alignright": "naprawo",
+	"bs-insertfile-typethumb": "wobrazk",
+	"bs-insertfile-nstextfile-image": "Wobraz pokazać",
+	"bs-insertfile-advanced-search-panel-label": "Rozšěrjene pytanje"
+}
