@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"محک"
+		]
+	},
+	"bs-insertfile-labelfilter": "فیلتر:",
+	"bs-insertfile-filename": "فایل ِنوم",
+	"bs-insertfile-filesize": "فایل ِگتی",
+	"bs-insertfile-lastmodified": "تازه دگاردنی‌ئون",
+	"bs-insertfile-labelupload": "باربی‌یشتن",
+	"bs-insertfile-details-title": "جزئیات",
+	"bs-insertfile-labeldimensions": "گتی (عرض×ارتفاع)",
+	"bs-insertfile-labelalt": "جایگزین ِبنویشته",
+	"bs-insertfile-labelalign": "تنظیم",
+	"bs-insertfile-labellink": "لینک",
+	"bs-insertfile-alignnone": "هیچ‌کامین",
+	"bs-insertfile-alignleft": "چپ",
+	"bs-insertfile-aligncenter": "میونه",
+	"bs-insertfile-alignright": "راست",
+	"bs-insertfile-labeltype": "دکوراسیون",
+	"bs-insertfile-typenone": "هیچ‌کامین",
+	"bs-insertfile-typethumb": "انگوس گتی",
+	"bs-insertfile-typeframe": "قاب",
+	"bs-insertfile-typeborder": "دورادور",
+	"bs-insertfile-titlefile": "پرونده بی‌یشتن",
+	"bs-insertfile-titleimage": "عکس بی‌یشتن",
+	"bs-insertfile-tipkeepratio": "نسبت‌ها ره رعایت دارین",
+	"bs-insertfile-select-a-link": "اتا لینک ره انتخاب هاکردن یا بنویشتن",
+	"bs-insertfile-linktext": "بنویشته ره دیار هاکردن",
+	"bs-insertfile-no-link": "بی‌لینک",
+	"bs-insertfile-error-no-medialink": "هیچ فایلی انتخاب نیه",
+	"bs-insertfile-nstext": "لینک ِنوع",
+	"bs-insertfile-nstextfile": "فایل",
+	"bs-insertfile-nstextfile-image": "عکس سراق هدائن",
+	"bs-insertfile-nstextmedia": "دانلود لینک ره سراق هدائن",
+	"bs-insertfile-advanced-search-panel-label": "پیشرفته چرخه‌تو"
+}
