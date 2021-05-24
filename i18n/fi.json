@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Joquliina",
 			"Pyscowicz",
 			"Silvonen"
 		]
@@ -10,6 +11,7 @@
 	"bs-insertfile-button-image-title": "Lisää tai muokkaa kuvaa",
 	"bs-insertfile-button-file-title": "Lisää tai muokkaa tiedostoa",
 	"bs-insertfile-nomatch": "Ei tuloksia",
+	"bs-insertfile-labelfilter": "Suodatin:",
 	"bs-insertfile-filename": "Tiedostonimi",
 	"bs-insertfile-filesize": "Tiedostokoko",
 	"bs-insertfile-lastmodified": "Tuoreet muutokset",
