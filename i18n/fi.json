@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Joquliina",
 			"Pyscowicz",
 			"Silvonen"
 		]
@@ -31,5 +32,6 @@
 	"bs-insertfile-nstextfile-image": "Näytä kuva",
 	"bs-insertfile-nstextmedia": "Näytä latauslinkki",
 	"bs-insertfile-advanced-search-panel-label": "Laajennettu haku",
-	"bs-insertfile-tipkeepratio": "Säilytä mittasuhteet"
+	"bs-insertfile-tipkeepratio": "Säilytä mittasuhteet",
+	"bs-insertfile-labelfilter": "Suodatin:"
 }
