@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Chaduvari",
 			"Veeven"
 		]
 	},
 	"bs-insertfile-details-title": "వివరాలు",
-	"bs-insertfile-labellink": "లంకె",
+	"bs-insertfile-labellink": "లింకు",
 	"bs-insertfile-alignnone": "ఏమీలేదు",
 	"bs-insertfile-alignleft": "ఎడమ",
 	"bs-insertfile-aligncenter": "మధ్య",

@@ -1,0 +1,41 @@
+{
+	"@metadata": {
+		"authors": [
+			"J budissin"
+		]
+	},
+	"bs-insertfile-insert-image": "Wobraz zasunyć",
+	"bs-insertfile-insert-file": "Dataju zasunyć",
+	"bs-insertfile-button-image-title": "Wobraz zasunyć abo změnić",
+	"bs-insertfile-button-file-title": "Dataju zasunyć abo změnić",
+	"bs-insertfile-nomatch": "Žane wuslědki",
+	"bs-insertfile-labelfilter": "Filter:",
+	"bs-insertfile-filename": "Datajowe mjeno",
+	"bs-insertfile-filesize": "Wulkosć dataje",
+	"bs-insertfile-lastmodified": "Aktualne změny",
+	"bs-insertfile-labelupload": "Nahrać",
+	"bs-insertfile-details-title": "Podrobnosće",
+	"bs-insertfile-labeldimensions": "Wulkosć (š x w)",
+	"bs-insertfile-labelalt": "Alternatiwny tekst",
+	"bs-insertfile-labelalign": "Wusměrjenje",
+	"bs-insertfile-labellink": "Wotkaz",
+	"bs-insertfile-alignnone": "žane",
+	"bs-insertfile-alignleft": "nalěwo",
+	"bs-insertfile-aligncenter": "srjedźa",
+	"bs-insertfile-alignright": "naprawo",
+	"bs-insertfile-typethumb": "wobrazk",
+	"bs-insertfile-titlefile": "Dataju zasunyć",
+	"bs-insertfile-titleimage": "Wobraz zasunyć",
+	"bs-insertfile-tipkeepratio": "Proporcije zdźeržeć",
+	"bs-insertfile-select-a-link": "Wotkaz wuzwolić abo zapodać",
+	"bs-insertfile-no-link": "Žadyn wotkaz",
+	"bs-insertfile-error-no-medialink": "Žadyn medijowy wotkaz wuzwoleny.",
+	"bs-insertfile-error-no-imagelink": "Žadyn wobrazowy wotkaz wuzwoleny.",
+	"bs-insertfile-enable-align": "Zmóžnić",
+	"bs-insertfile-nstext": "Typ wotkaza",
+	"bs-insertfile-nstextfile": "Dataja",
+	"bs-insertfile-nstextfile-file": "Wotkaz k metadatam pokazać",
+	"bs-insertfile-nstextfile-image": "Wobraz pokazać",
+	"bs-insertfile-nstextmedia": "Wotkaz za sćehnjenje pokazać",
+	"bs-insertfile-advanced-search-panel-label": "Rozšěrjene pytanje"
+}

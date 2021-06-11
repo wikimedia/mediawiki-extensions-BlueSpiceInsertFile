@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Abbas dhothar"
+		]
+	},
+	"bs-insertfile-insert-file": "فائل پاؤ",
+	"bs-insertfile-filename": "فائل دا ناں",
+	"bs-insertfile-labelupload": "اُتے چاڑھو",
+	"bs-insertfile-alignnone": "کوئی نئیں",
+	"bs-insertfile-alignleft": "کھبے",
+	"bs-insertfile-aligncenter": "وچکار",
+	"bs-insertfile-alignright": "سجے",
+	"bs-insertfile-typenone": "کوئی نئیں",
+	"bs-insertfile-typeframe": "فریم",
+	"bs-insertfile-titlefile": "فائل پاؤ",
+	"bs-insertfile-advanced-search-panel-label": "ہور کھوج"
+}

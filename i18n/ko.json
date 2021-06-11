@@ -46,5 +46,6 @@
 	"bs-insertfile-nstextfile-file": "메타데이터의 링크 표시",
 	"bs-insertfile-nstextfile-image": "그림 표시",
 	"bs-insertfile-nstextmedia": "다운로드 링크 표시",
-	"bs-insertfile-advanced-search-panel-label": "고급 검색"
+	"bs-insertfile-advanced-search-panel-label": "고급 검색",
+	"bs-insertfile-desc": "파일 업로드 및 파일 링크 삽입 대화 상자"
 }

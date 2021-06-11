@@ -4,6 +4,7 @@
 			"Gomoko",
 			"Thibaut120094",
 			"Urhixidur",
+			"Verdy p",
 			"Wladek92"
 		]
 	},
@@ -12,14 +13,14 @@
 	"bs-insertfile-insert-file": "Insérer un fichier",
 	"bs-insertfile-button-image-title": "Insérer ou modifier une image",
 	"bs-insertfile-button-file-title": "Insérer ou modifier un fichier",
-	"bs-insertfile-nomatch": "Aucune correspondance.",
-	"bs-insertfile-labelfilter": "Filtre :",
+	"bs-insertfile-nomatch": "Aucune correspondance",
+	"bs-insertfile-labelfilter": "Filtre :",
 	"bs-insertfile-filename": "Nom de fichier",
 	"bs-insertfile-filesize": "Taille de fichier",
 	"bs-insertfile-lastmodified": "Modifications récentes",
 	"bs-insertfile-labelupload": "Téléverser",
 	"bs-insertfile-details-title": "Détails",
-	"bs-insertfile-labeldimensions": "Taille (l x h)",
+	"bs-insertfile-labeldimensions": "Taille (l × h)",
 	"bs-insertfile-labelalt": "Texte de remplacement",
 	"bs-insertfile-labelalign": "Alignement",
 	"bs-insertfile-labellink": "Lien",
@@ -47,7 +48,7 @@
 	"bs-insertfile-nstext": "Type de lien",
 	"bs-insertfile-nstextfile": "Fichier",
 	"bs-insertfile-nstextfile-file": "Montrer le lien vers les métadonnées",
-	"bs-insertfile-nstextfile-image": "Montrer l'image",
+	"bs-insertfile-nstextfile-image": "Afficher l’image",
 	"bs-insertfile-nstextmedia": "Montrer le lien de téléchargement",
 	"bs-insertfile-advanced-search-panel-label": "Recherche avancée"
 }
