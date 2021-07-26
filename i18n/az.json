@@ -1,10 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
+			"NMW03",
 			"Toghrul Rahimli",
 			"Wertuose"
 		]
 	},
 	"bs-insertfile-insert-file": "Fayl əlavə et",
-	"bs-insertfile-advanced-search-panel-label": "Ətraflı axtarış"
+	"bs-insertfile-advanced-search-panel-label": "Ətraflı axtarış",
+	"bs-insertfile-labelalt": "Alternativ mətn",
+	"bs-insertfile-alignnone": "heç biri",
+	"bs-insertfile-alignleft": "sol",
+	"bs-insertfile-aligncenter": "orta",
+	"bs-insertfile-alignright": "sağ",
+	"bs-insertfile-titlefile": "Fayl əlavə et"
 }
