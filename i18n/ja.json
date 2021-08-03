@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ajeje Brazorf",
 			"Otokoume",
 			"Shirayuki"
 		]
@@ -27,5 +28,6 @@
 	"bs-insertfile-titleimage": "画像の挿入",
 	"bs-insertfile-tipkeepratio": "縦横比を維持",
 	"bs-insertfile-linktext": "表示テキスト",
-	"bs-insertfile-no-link": "リンクなし"
+	"bs-insertfile-no-link": "リンクなし",
+	"bs-insertfile-of": "の"
 }
