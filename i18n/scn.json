@@ -5,6 +5,8 @@
 		]
 	},
 	"bs-insertfile-lastmodified": "Ùrtimi canciamenti",
+	"bs-insertfile-alignnone": "nuddu",
 	"bs-insertfile-alignleft": "manca",
+	"bs-insertfile-typenone": "nuddu",
 	"bs-insertfile-nstextfile": "File"
 }
