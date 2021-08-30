@@ -3,6 +3,7 @@
 		"authors": [
 			"Esketti",
 			"Mainframe98",
+			"McDutchie",
 			"Ndecouck",
 			"SPQRobin",
 			"Siebrand",
@@ -38,7 +39,7 @@
 	"bs-insertfile-titleimage": "Afbeelding invoegen",
 	"bs-insertfile-tipkeepratio": "Verhoudingen behouden",
 	"bs-insertfile-of": "of",
-	"bs-insertfile-select-a-link": "Selecteer of type een koppeling",
+	"bs-insertfile-select-a-link": "Selecteer of typ een koppeling",
 	"bs-insertfile-linktext": "Tekst weergeven",
 	"bs-insertfile-no-link": "Geen koppeling",
 	"bs-insertfile-error-no-medialink": "Geen mediakoppeling geselecteerd.",
