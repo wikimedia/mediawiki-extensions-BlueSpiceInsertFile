@@ -10,6 +10,7 @@
 	"bs-insertfile-alignnone": "nulo",
 	"bs-insertfile-alignleft": "sinistre",
 	"bs-insertfile-typenone": "nulo",
+	"bs-insertfile-typethumb": "miniaturo",
 	"bs-insertfile-titlefile": "Inkluzar arkivo",
 	"bs-insertfile-enable-align": "Permisar"
 }
