@@ -9,5 +9,10 @@
 	"bs-insertfile-lastmodified": "Ùrtimi canciamenti",
 	"bs-insertfile-filename": "Nomu dû file",
 	"bs-insertfile-alignnone": "nuddu",
-	"bs-insertfile-typenone": "nuddu"
+	"bs-insertfile-typenone": "nuddu",
+	"bs-insertfile-insert-image": "Nzirisci mmàggini",
+	"bs-insertfile-insert-file": "Nzirisci file",
+	"bs-insertfile-details-title": "Dittagghî",
+	"bs-insertfile-titlefile": "Nzirisci file",
+	"bs-insertfile-titleimage": "Nzirisci mmàggini"
 }
