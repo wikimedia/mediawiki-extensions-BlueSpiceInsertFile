@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"JSantos",
 			"Joao Xavier"
 		]
 	},
@@ -12,5 +13,6 @@
 	"bs-insertfile-typenone": "nulo",
 	"bs-insertfile-typethumb": "miniaturo",
 	"bs-insertfile-titlefile": "Inkluzar arkivo",
-	"bs-insertfile-enable-align": "Permisar"
+	"bs-insertfile-enable-align": "Permisar",
+	"bs-insertfile-nstextfile": "Arkivo"
 }
