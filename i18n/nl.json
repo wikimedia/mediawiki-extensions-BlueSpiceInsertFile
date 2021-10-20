@@ -3,6 +3,7 @@
 		"authors": [
 			"Esketti",
 			"Mainframe98",
+			"McDutchie",
 			"Ndecouck",
 			"SPQRobin",
 			"Siebrand",
@@ -38,7 +39,7 @@
 	"bs-insertfile-titleimage": "Afbeelding invoegen",
 	"bs-insertfile-tipkeepratio": "Verhoudingen behouden",
 	"bs-insertfile-of": "of",
-	"bs-insertfile-select-a-link": "Selecteer of type een koppeling",
+	"bs-insertfile-select-a-link": "Selecteer of typ een koppeling",
 	"bs-insertfile-linktext": "Tekst weergeven",
 	"bs-insertfile-no-link": "Geen koppeling",
 	"bs-insertfile-error-no-medialink": "Geen mediakoppeling geselecteerd.",
@@ -48,5 +49,8 @@
 	"bs-insertfile-nstextfile": "Bestand",
 	"bs-insertfile-nstextfile-image": "Afbeelding weergeven",
 	"bs-insertfile-nstextmedia": "Downloadkoppeling weergeven",
-	"bs-insertfile-advanced-search-panel-label": "geavanceerd zoeken"
+	"bs-insertfile-advanced-search-panel-label": "geavanceerd zoeken",
+	"apihelp-bs-insertfile-license-store-description": "Geeft een overzicht van de licenties voor de uitbreiding InsertFile.",
+	"apihelp-bs-insertfile-license-store-summary": "Geeft een overzicht van de licenties voor de uitbreiding InsertFile.",
+	"bs-insertfile-nstextfile-file": "Een koppeling naar de metagegevens tonen"
 }
