@@ -7,11 +7,14 @@
 	"bs-insertfile-insert-image": "عڪس درج ڪريو",
 	"bs-insertfile-insert-file": "فائيل وجهو",
 	"bs-insertfile-lastmodified": "تازيون تبديليون",
+	"bs-insertfile-labelalt": "متبادل متن",
 	"bs-insertfile-alignnone": "ڪوبہ نہ",
 	"bs-insertfile-typenone": "ڪوبہ نہ",
 	"bs-insertfile-typeframe": "فريم",
 	"bs-insertfile-titlefile": "فائيل وجهو",
 	"bs-insertfile-titleimage": "عڪس وجھو",
 	"bs-insertfile-of": "جو",
-	"bs-insertfile-enable-align": "قابل-بڻايو"
+	"bs-insertfile-linktext": "متن ڏيکاريو",
+	"bs-insertfile-enable-align": "قابل-بڻايو",
+	"bs-insertfile-nstextfile-image": "عڪس ڏيکاريو"
 }
