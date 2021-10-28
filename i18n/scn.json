@@ -14,5 +14,8 @@
 	"bs-insertfile-insert-file": "Nzirisci file",
 	"bs-insertfile-details-title": "Dittagghî",
 	"bs-insertfile-titlefile": "Nzirisci file",
-	"bs-insertfile-titleimage": "Nzirisci mmàggini"
+	"bs-insertfile-titleimage": "Nzirisci mmàggini",
+	"bs-insertfile-labelfilter": "Filtru:",
+	"bs-insertfile-typethumb": "miniatura",
+	"bs-insertfile-nstextfile-image": "Ammustra mmàggini"
 }
