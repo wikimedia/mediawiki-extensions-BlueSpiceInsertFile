@@ -5,6 +5,7 @@
 			"Hwangjy9",
 			"Yearning",
 			"Ykhwong",
+			"Yunbj",
 			"아라"
 		]
 	},
@@ -27,6 +28,7 @@
 	"bs-insertfile-alignleft": "왼쪽",
 	"bs-insertfile-aligncenter": "가운데",
 	"bs-insertfile-alignright": "오른쪽",
+	"bs-insertfile-labeltype": "꾸미기",
 	"bs-insertfile-typenone": "없음",
 	"bs-insertfile-typethumb": "섬네일",
 	"bs-insertfile-typeframe": "프레임",
