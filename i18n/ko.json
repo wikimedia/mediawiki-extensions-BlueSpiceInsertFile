@@ -5,7 +5,8 @@
 			"Hwangjy9",
 			"Yearning",
 			"Ykhwong",
-			"아라"
+			"아라",
+			"Yunbj"
 		]
 	},
 	"bs-insertfile-desc": "파일 업로드 및 파일 링크 삽입 대화 상자",
@@ -27,6 +28,7 @@
 	"bs-insertfile-alignleft": "왼쪽",
 	"bs-insertfile-aligncenter": "가운데",
 	"bs-insertfile-alignright": "오른쪽",
+	"bs-insertfile-labeltype": "꾸미기",
 	"bs-insertfile-typenone": "없음",
 	"bs-insertfile-typethumb": "섬네일",
 	"bs-insertfile-typeframe": "프레임",
