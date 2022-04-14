@@ -3,6 +3,7 @@
 		"authors": [
 			"Fohanno",
 			"Gwendal",
+			"Huñvreüs",
 			"Y-M D"
 		]
 	},
@@ -37,5 +38,6 @@
 	"bs-insertfile-no-link": "Liamm ebet",
 	"bs-insertfile-error-no-medialink": "N'eus bet diuzet liamm media ebet.",
 	"bs-insertfile-error-no-imagelink": "N'eus bet diuzet liamm skeudenn ebet.",
-	"bs-insertfile-enable-align": "Gweredekaat"
+	"bs-insertfile-enable-align": "Gweredekaat",
+	"bs-insertfile-advanced-search-panel-label": "Klask araokaet"
 }
