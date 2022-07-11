@@ -14,5 +14,6 @@
 	"bs-insertfile-enable-align": "Permisar",
 	"bs-insertfile-alignleft": "sinistre",
 	"bs-insertfile-typethumb": "miniaturo",
-	"bs-insertfile-nstextfile": "Arkivo"
+	"bs-insertfile-nstextfile": "Arkivo",
+	"bs-insertfile-labellink": "Ligilo"
 }
