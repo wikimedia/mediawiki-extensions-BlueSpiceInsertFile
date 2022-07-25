@@ -13,5 +13,8 @@
 	"bs-insertfile-titlefile": "Lââʹzzet teâttõõzz",
 	"bs-insertfile-nstextfile": "Teâttõs",
 	"bs-insertfile-nstextfile-image": "Čuäʹjet snimldõõǥǥ",
-	"bs-insertfile-nstextmedia": "Čuäʹjet laaddâmliiŋk"
+	"bs-insertfile-nstextmedia": "Čuäʹjet laaddâmliiŋk",
+	"bs-insertfile-nomatch": "Ni mâiʹd ij käunnʼjam",
+	"bs-insertfile-filesize": "Teâttõõzz šorradvuõtt",
+	"bs-insertfile-labeldimensions": "Šorradvuõtt (k x õ)"
 }
