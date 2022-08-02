@@ -4,16 +4,20 @@
 			"Yupik"
 		]
 	},
+	"bs-insertfile-insert-image": "Lââʹzzet kaart",
 	"bs-insertfile-insert-file": "Lââʹzzet teâttõõzz",
+	"bs-insertfile-button-image-title": "Lââʹzzet leʹbe muuʹtt kaart",
 	"bs-insertfile-button-file-title": "Lââʹzzet leʹbe muuʹtt teâttõõzz",
 	"bs-insertfile-nomatch": "Ni mâiʹd ij käunnʼjam",
 	"bs-insertfile-labelfilter": "Siʹllʼjeei:",
 	"bs-insertfile-filename": "Teâttõsnõmm",
 	"bs-insertfile-filesize": "Teâttõõzz šorradvuõtt",
-	"bs-insertfile-lastmodified": "Võõrâs muttâz",
+	"bs-insertfile-lastmodified": "Ođđsumus muttâz",
+	"bs-insertfile-labelupload": "Ruõkk",
 	"bs-insertfile-labeldimensions": "Šorradvuõtt (k x õ)",
 	"bs-insertfile-labellink": "Liŋkk",
 	"bs-insertfile-titlefile": "Lââʹzzet teâttõõzz",
+	"bs-insertfile-titleimage": "Lââʹzzet kaart",
 	"bs-insertfile-nstextfile": "Teâttõs",
 	"bs-insertfile-nstextfile-image": "Čuäʹjet snimldõõǥǥ",
 	"bs-insertfile-nstextmedia": "Čuäʹjet laaddâmliiŋk"
