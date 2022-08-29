@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Beta16",
+			"GpieroMW",
 			"Selven"
 		]
 	},
@@ -45,5 +46,7 @@
 	"bs-insertfile-nstextfile-file": "Mostra collegamento a metadati",
 	"bs-insertfile-nstextfile-image": "Mostra immagine",
 	"bs-insertfile-nstextmedia": "Mostra collegamento per il download",
-	"bs-insertfile-advanced-search-panel-label": "Ricerca avanzata"
+	"bs-insertfile-advanced-search-panel-label": "Ricerca avanzata",
+	"bs-insertfile-desc": "Finestra di dialogo per caricare i file e inserire un collegamento al file",
+	"bs-insertfile-error-no-medialink": "Nessun collegamento multimediale selezionato."
 }
