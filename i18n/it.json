@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Beta16",
-			"Selven"
+			"Selven",
+			"GpieroMW"
 		]
 	},
+	"bs-insertfile-desc": "Finestra di dialogo per caricare i file e inserire un collegamento al file",
 	"bs-insertfile-insert-image": "Inserisci immagine",
 	"bs-insertfile-insert-file": "Inserisci file",
 	"bs-insertfile-button-image-title": "Inserisci o modifica immagine",
@@ -36,6 +38,7 @@
 	"bs-insertfile-select-a-link": "Selezionare o digitare un collegamento",
 	"bs-insertfile-linktext": "Mostra testo",
 	"bs-insertfile-no-link": "Nessun collegamento",
+	"bs-insertfile-error-no-medialink": "Nessun collegamento multimediale selezionato.",
 	"bs-insertfile-error-no-imagelink": "Immagine del collegamento non selezionata.",
 	"apihelp-bs-insertfile-license-store-description": "Elenca le licenze per l'estensione InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Elenca le licenze per l'estensione InsertFile.",
