@@ -3,6 +3,7 @@
 		"authors": [
 			"Alojz.tic",
 			"Dbc334",
+			"Eleassar",
 			"HairyFotr",
 			"Skalcaa"
 		]
@@ -44,5 +45,6 @@
 	"apihelp-bs-insertfile-license-store-description": "Navede dovoljenja za razširitev InsertFile.",
 	"bs-insertfile-enable-align": "Omogoči",
 	"bs-insertfile-nstextfile": "Datoteka",
-	"bs-insertfile-nstextfile-image": "Prikaži sliko"
+	"bs-insertfile-nstextfile-image": "Prikaži sliko",
+	"bs-insertfile-nstext": "Vrsta povezave"
 }
