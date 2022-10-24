@@ -24,5 +24,6 @@
 	"bs-insertfile-enable-align": "Aktiver",
 	"bs-insertfile-nstextfile": "Fil",
 	"bs-insertfile-nstextfile-image": "Vis billede",
-	"bs-insertfile-advanced-search-panel-label": "Avanceret søgning"
+	"bs-insertfile-advanced-search-panel-label": "Avanceret søgning",
+	"bs-insertfile-labeldimensions": "Størrelse (w x h)"
 }
