@@ -24,5 +24,6 @@
 	"bs-insertfile-alignright": "højre",
 	"bs-insertfile-labeltype": "Dekoration",
 	"bs-insertfile-typeframe": "ramme",
-	"bs-insertfile-of": "af"
+	"bs-insertfile-of": "af",
+	"bs-insertfile-labeldimensions": "Størrelse (w x h)"
 }
