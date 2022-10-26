@@ -11,6 +11,7 @@
 	"bs-insertfile-filesize": "Filstørrelse",
 	"bs-insertfile-lastmodified": "Seneste ændringer",
 	"bs-insertfile-details-title": "Detaljer",
+	"bs-insertfile-labeldimensions": "Størrelse (w x h)",
 	"bs-insertfile-alignnone": "ingen",
 	"bs-insertfile-alignleft": "venstre",
 	"bs-insertfile-aligncenter": "centreret",
