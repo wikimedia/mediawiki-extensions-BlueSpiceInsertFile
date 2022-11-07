@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Aram1985",
-			"Kareyac"
+			"Kareyac",
+			"Սերգեյ Սաֆարյան"
 		]
 	},
 	"bs-insertfile-labelfilter": "Զտիչ՝",
@@ -18,5 +19,6 @@
 	"bs-insertfile-typeborder": "շրջանակ",
 	"bs-insertfile-nstextfile": "Նիշք",
 	"bs-insertfile-nstextfile-image": "Ցուցադրել պատկերը",
-	"bs-insertfile-nstextmedia": "Ցուցադրել ներբեռնման հղումը"
+	"bs-insertfile-nstextmedia": "Ցուցադրել ներբեռնման հղումը",
+	"bs-insertfile-labelupload": "Վերբեռնել"
 }
