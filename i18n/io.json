@@ -15,5 +15,6 @@
 	"bs-insertfile-typethumb": "miniaturo",
 	"bs-insertfile-titlefile": "Inkluzar arkivo",
 	"bs-insertfile-enable-align": "Permisar",
-	"bs-insertfile-nstextfile": "Arkivo"
+	"bs-insertfile-nstextfile": "Arkivo",
+	"bs-insertfile-alignright": "dextre"
 }
