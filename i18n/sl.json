@@ -46,5 +46,9 @@
 	"bs-insertfile-enable-align": "Omogoči",
 	"bs-insertfile-nstextfile": "Datoteka",
 	"bs-insertfile-nstextfile-image": "Prikaži sliko",
-	"bs-insertfile-nstext": "Vrsta povezave"
+	"bs-insertfile-nstext": "Vrsta povezave",
+	"apihelp-bs-insertfile-license-store-summary": "Navede licence za razširitev InsertFile.",
+	"bs-insertfile-nstextfile-file": "Prikaži povezavo do metapodatkov",
+	"bs-insertfile-nstextmedia": "Prikaži povezavo za prenos",
+	"bs-insertfile-advanced-search-panel-label": "Napredno iskanje"
 }
