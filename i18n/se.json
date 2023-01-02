@@ -7,5 +7,9 @@
 	"bs-insertfile-labellink": "Liŋka",
 	"bs-insertfile-filename": "Fiilanamma",
 	"bs-insertfile-labelfilter": "Silli:",
-	"bs-insertfile-typethumb": "govaš"
+	"bs-insertfile-typethumb": "govaš",
+	"bs-insertfile-insert-file": "Lasit fiilla",
+	"bs-insertfile-button-file-title": "Lasit dahje rievdat fiilla",
+	"bs-insertfile-labeldimensions": "Sturrodat (govdodat x allodat)",
+	"bs-insertfile-titlefile": "Lasit fiilla"
 }

@@ -12,5 +12,9 @@
 	"bs-insertfile-labellink": "Liŋkkâ",
 	"bs-insertfile-nstextfile": "Tiätuvuárkká",
 	"bs-insertfile-advanced-search-panel-label": "Vijđedum uuccâm",
-	"bs-insertfile-typethumb": "miniatyyrkove"
+	"bs-insertfile-typethumb": "miniatyyrkove",
+	"bs-insertfile-insert-file": "Lasseet tiätuvuárhá",
+	"bs-insertfile-button-file-title": "Lasseet teikkâ mute tiätuvuárhá",
+	"bs-insertfile-labeldimensions": "Stuárudâh (kobdodâh x alodâh)",
+	"bs-insertfile-titlefile": "Lasseet tiätuvuárhá"
 }
