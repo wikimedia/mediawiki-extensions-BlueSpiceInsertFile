@@ -43,8 +43,12 @@
 	"bs-insertfile-error-no-medialink": "Ni izbrana nobena povezava medijskih vsebin.",
 	"bs-insertfile-error-no-imagelink": "Ni izbrana nobena povezava slike.",
 	"apihelp-bs-insertfile-license-store-description": "Navede dovoljenja za razširitev InsertFile.",
+	"apihelp-bs-insertfile-license-store-summary": "Navede licence za razširitev InsertFile.",
 	"bs-insertfile-enable-align": "Omogoči",
 	"bs-insertfile-nstext": "Vrsta povezave",
 	"bs-insertfile-nstextfile": "Datoteka",
-	"bs-insertfile-nstextfile-image": "Prikaži sliko"
+	"bs-insertfile-nstextfile-file": "Prikaži povezavo do metapodatkov",
+	"bs-insertfile-nstextfile-image": "Prikaži sliko",
+	"bs-insertfile-nstextmedia": "Prikaži povezavo za prenos",
+	"bs-insertfile-advanced-search-panel-label": "Napredno iskanje"
 }

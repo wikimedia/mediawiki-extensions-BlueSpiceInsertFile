@@ -4,8 +4,12 @@
 			"Yupik"
 		]
 	},
+	"bs-insertfile-insert-file": "Lasit fiilla",
+	"bs-insertfile-button-file-title": "Lasit dahje rievdat fiilla",
 	"bs-insertfile-labelfilter": "Silli:",
 	"bs-insertfile-filename": "Fiilanamma",
+	"bs-insertfile-labeldimensions": "Sturrodat (govdodat x allodat)",
 	"bs-insertfile-labellink": "Liŋka",
-	"bs-insertfile-typethumb": "govaš"
+	"bs-insertfile-typethumb": "govaš",
+	"bs-insertfile-titlefile": "Lasit fiilla"
 }
