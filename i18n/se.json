@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kimberli Mäkäräinen (WMNO)",
 			"Yupik"
 		]
 	},
 	"bs-insertfile-insert-file": "Lasit fiilla",
 	"bs-insertfile-button-file-title": "Lasit dahje rievdat fiilla",
+	"bs-insertfile-nomatch": "Eai bohtosat",
 	"bs-insertfile-labelfilter": "Silli:",
 	"bs-insertfile-filename": "Fiilanamma",
 	"bs-insertfile-labeldimensions": "Sturrodat (govdodat x allodat)",
