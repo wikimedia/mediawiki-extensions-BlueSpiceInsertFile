@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kimberli Mäkäräinen (WMNO)",
 			"Yupik"
 		]
 	},
@@ -11,5 +12,6 @@
 	"bs-insertfile-labeldimensions": "Sturrodat (govdodat x allodat)",
 	"bs-insertfile-labellink": "Liŋka",
 	"bs-insertfile-typethumb": "govaš",
-	"bs-insertfile-titlefile": "Lasit fiilla"
+	"bs-insertfile-titlefile": "Lasit fiilla",
+	"bs-insertfile-nomatch": "Eai bohtosat"
 }
