@@ -13,5 +13,6 @@
 	"bs-insertfile-button-file-title": "Lasit dahje rievdat fiilla",
 	"bs-insertfile-labeldimensions": "Sturrodat (govdodat x allodat)",
 	"bs-insertfile-titlefile": "Lasit fiilla",
-	"bs-insertfile-nomatch": "Eai bohtosat"
+	"bs-insertfile-nomatch": "Eai bohtosat",
+	"bs-insertfile-labelalt": "Molssaevttolaš teaksta"
 }
