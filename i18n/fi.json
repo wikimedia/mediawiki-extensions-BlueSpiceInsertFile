@@ -33,5 +33,6 @@
 	"bs-insertfile-nstextfile-image": "Näytä kuva",
 	"bs-insertfile-nstextmedia": "Näytä latauslinkki",
 	"bs-insertfile-advanced-search-panel-label": "Laajennettu haku",
-	"bs-insertfile-labelfilter": "Suodatin:"
+	"bs-insertfile-labelfilter": "Suodatin:",
+	"bs-insertfile-labeldimensions": "Koko (l × k)"
 }
