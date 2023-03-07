@@ -73,6 +73,9 @@ bs.insertfile.ui.plugin.MWMediaDialog.prototype.onFileRepoGridSelect = function(
 		thumburl: record.get( 'file_thumbnail_url' ),
 		thumbwidth: 80 //Hardcoded in 'bs-filerepo-store'
 	};
-
+	if ( imageInfo.timestamp instanceof Date ) {
+		// VisualEdior MediaDialog in REL1_39 requires `string`, not `Date`
+		imageInfo.timestamp = imageInfo.timestamp.toISOString();
+	}
 	this.component.chooseImageInfo( imageInfo );
 };
