@@ -3,7 +3,8 @@
 		"authors": [
 			"Ajeje Brazorf",
 			"Otokoume",
-			"Shirayuki"
+			"Shirayuki",
+			"もなー(偽物)"
 		]
 	},
 	"bs-insertfile-insert-image": "画像を挿入",
@@ -29,5 +30,10 @@
 	"bs-insertfile-tipkeepratio": "縦横比を維持",
 	"bs-insertfile-of": "の",
 	"bs-insertfile-linktext": "表示テキスト",
-	"bs-insertfile-no-link": "リンクなし"
+	"bs-insertfile-no-link": "リンクなし",
+	"bs-insertfile-typeframe": "フレーム",
+	"bs-insertfile-typeborder": "線",
+	"bs-insertfile-select-a-link": "リンクを選択または入力",
+	"bs-insertfile-error-no-medialink": "メディア リンクが選択されていません。",
+	"bs-insertfile-nstextfile": "ファイル"
 }
