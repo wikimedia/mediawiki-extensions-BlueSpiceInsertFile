@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Les Meloures",
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
 	"bs-insertfile-desc": "Dialog fir Fichieren eropzelueden an e Link op e Fichier dranzesetzen",
@@ -19,9 +20,11 @@
 	"bs-insertfile-details-title": "Detailer",
 	"bs-insertfile-labeldimensions": "Gréisst (B x H)",
 	"bs-insertfile-labelalt": "Alternativen Text",
+	"bs-insertfile-labelalign": "Orientatioun",
 	"bs-insertfile-labellink": "Link",
 	"bs-insertfile-alignnone": "keng",
-	"bs-insertfile-alignleft": "lenks",
+	"bs-insertfile-alignleft": "lénks",
+	"bs-insertfile-aligncenter": "zentréiert",
 	"bs-insertfile-alignright": "riets",
 	"bs-insertfile-labeltype": "Dekoratioun",
 	"bs-insertfile-typenone": "keen",
@@ -35,7 +38,10 @@
 	"bs-insertfile-select-a-link": "Link eraussichen oder antippen",
 	"bs-insertfile-linktext": "Tesxt weisen",
 	"bs-insertfile-no-link": "Kee Link.",
+	"bs-insertfile-error-no-medialink": "Kee Medielink erausgesicht.",
 	"bs-insertfile-error-no-imagelink": "Kee Bildlink erausgesicht.",
+	"apihelp-bs-insertfile-license-store-description": "Lëscht d'Lizenze fir d'Erweiderung InsertFile op.",
+	"apihelp-bs-insertfile-license-store-summary": "Lëscht d'Lizenze fir d'Erweiderung InsertFile op.",
 	"bs-insertfile-enable-align": "Aschalten",
 	"bs-insertfile-nstext": "Typ vu Link",
 	"bs-insertfile-nstextfile": "Fichier",
