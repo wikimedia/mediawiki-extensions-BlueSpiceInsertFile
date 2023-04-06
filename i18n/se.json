@@ -10,10 +10,12 @@
 	"bs-insertfile-nomatch": "Eai bohtosat",
 	"bs-insertfile-labelfilter": "Silli:",
 	"bs-insertfile-filename": "Fiilanamma",
+	"bs-insertfile-filesize": "Fiilasturrodat",
 	"bs-insertfile-labeldimensions": "Sturrodat (govdodat x allodat)",
 	"bs-insertfile-labelalt": "Molssaevttolaš teaksta",
 	"bs-insertfile-labellink": "Liŋka",
 	"bs-insertfile-typethumb": "govaš",
 	"bs-insertfile-titlefile": "Lasit fiilla",
+	"bs-insertfile-nstextfile": "Fiila",
 	"bs-insertfile-advanced-search-panel-label": "Aiddostahttojuvvon ohcan"
 }
