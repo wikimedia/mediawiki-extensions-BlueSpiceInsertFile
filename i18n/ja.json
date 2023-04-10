@@ -35,5 +35,17 @@
 	"bs-insertfile-typeborder": "線",
 	"bs-insertfile-select-a-link": "リンクを選択または入力",
 	"bs-insertfile-error-no-medialink": "メディア リンクが選択されていません。",
-	"bs-insertfile-nstextfile": "ファイル"
+	"bs-insertfile-nstextfile": "ファイル",
+	"bs-insertfile-desc": "ファイルをアップロードしてファイルのリンクを挿入するためのダイアログ",
+	"bs-insertfile-button-image-title": "画像の挿入または編集",
+	"bs-insertfile-button-file-title": "ファイルの挿入または編集",
+	"bs-insertfile-labeltype": "装飾",
+	"bs-insertfile-typethumb": "サムネイル",
+	"bs-insertfile-error-no-imagelink": "画像リンクが選択されていません。",
+	"bs-insertfile-enable-align": "有効",
+	"bs-insertfile-nstext": "リンクの種類",
+	"bs-insertfile-nstextfile-file": "メタデータへのリンクを表示",
+	"bs-insertfile-nstextfile-image": "画像を表示",
+	"bs-insertfile-nstextmedia": "ダウンロードリンクを表示",
+	"bs-insertfile-advanced-search-panel-label": "高度な検索"
 }
