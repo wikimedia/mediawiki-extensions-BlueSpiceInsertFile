@@ -7,8 +7,11 @@
 			"もなー(偽物)"
 		]
 	},
+	"bs-insertfile-desc": "ファイルをアップロードしてファイルのリンクを挿入するためのダイアログ",
 	"bs-insertfile-insert-image": "画像を挿入",
 	"bs-insertfile-insert-file": "ファイルを挿入",
+	"bs-insertfile-button-image-title": "画像の挿入または編集",
+	"bs-insertfile-button-file-title": "ファイルの挿入または編集",
 	"bs-insertfile-nomatch": "該当するものはありません",
 	"bs-insertfile-labelfilter": "絞り込み:",
 	"bs-insertfile-filename": "ファイル名",
@@ -24,7 +27,9 @@
 	"bs-insertfile-alignleft": "左",
 	"bs-insertfile-aligncenter": "中央",
 	"bs-insertfile-alignright": "右",
+	"bs-insertfile-labeltype": "装飾",
 	"bs-insertfile-typenone": "なし",
+	"bs-insertfile-typethumb": "サムネイル",
 	"bs-insertfile-typeframe": "フレーム",
 	"bs-insertfile-typeborder": "線",
 	"bs-insertfile-titlefile": "ファイルの挿入",
@@ -35,5 +40,12 @@
 	"bs-insertfile-linktext": "表示テキスト",
 	"bs-insertfile-no-link": "リンクなし",
 	"bs-insertfile-error-no-medialink": "メディア リンクが選択されていません。",
-	"bs-insertfile-nstextfile": "ファイル"
+	"bs-insertfile-error-no-imagelink": "画像リンクが選択されていません。",
+	"bs-insertfile-enable-align": "有効",
+	"bs-insertfile-nstext": "リンクの種類",
+	"bs-insertfile-nstextfile": "ファイル",
+	"bs-insertfile-nstextfile-file": "メタデータへのリンクを表示",
+	"bs-insertfile-nstextfile-image": "画像を表示",
+	"bs-insertfile-nstextmedia": "ダウンロードリンクを表示",
+	"bs-insertfile-advanced-search-panel-label": "高度な検索"
 }
