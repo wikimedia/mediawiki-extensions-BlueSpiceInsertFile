@@ -3,7 +3,8 @@
 		"authors": [
 			"Eitvys200",
 			"Nuodas",
-			"Zygimantus"
+			"Zygimantus",
+			"Nokeoo"
 		]
 	},
 	"bs-insertfile-desc": "Dialogas failų įkėlimui ir failo nuorodos įterpimui",
@@ -41,5 +42,12 @@
 	"bs-insertfile-error-no-medialink": "Nepasirinktas jokia medijos nuoroda.",
 	"bs-insertfile-error-no-imagelink": "Nepasirinkta jokia paveikslėlio nuoroda.",
 	"apihelp-bs-insertfile-license-store-description": "Nurodo InsertFile plėtinio licencijas.",
-	"bs-insertfile-enable-align": "Įgalinti"
+	"apihelp-bs-insertfile-license-store-summary": "Pateikia plėtinio InsertFile licencijų sąrašą.",
+	"bs-insertfile-enable-align": "Įgalinti",
+	"bs-insertfile-nstext": "Nuorodos tipas",
+	"bs-insertfile-nstextfile": "Failas",
+	"bs-insertfile-nstextfile-file": "Rodyti nuorodą į metaduomenis",
+	"bs-insertfile-nstextfile-image": "Rodyti paveikslėlį",
+	"bs-insertfile-nstextmedia": "Rodyti atsisiuntimo nuorodą",
+	"bs-insertfile-advanced-search-panel-label": "Išplėstinė paieška"
 }
