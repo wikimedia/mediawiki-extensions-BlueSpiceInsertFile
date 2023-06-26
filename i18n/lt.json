@@ -41,7 +41,6 @@
 	"bs-insertfile-no-link": "Jokios nuorodos",
 	"bs-insertfile-error-no-medialink": "Nepasirinktas jokia medijos nuoroda.",
 	"bs-insertfile-error-no-imagelink": "Nepasirinkta jokia paveikslėlio nuoroda.",
-	"apihelp-bs-insertfile-license-store-description": "Nurodo InsertFile plėtinio licencijas.",
 	"apihelp-bs-insertfile-license-store-summary": "Pateikia plėtinio InsertFile licencijų sąrašą.",
 	"bs-insertfile-enable-align": "Įgalinti",
 	"bs-insertfile-nstext": "Nuorodos tipas",

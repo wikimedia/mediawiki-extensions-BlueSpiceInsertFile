@@ -41,7 +41,6 @@
 	"bs-insertfile-no-link": "Bağlantı yok",
 	"bs-insertfile-error-no-medialink": "Hiçbir medya bağlantısı seçilmedi.",
 	"bs-insertfile-error-no-imagelink": "Hiçbir resim bağlantısı seçilmedi.",
-	"apihelp-bs-insertfile-license-store-description": "InsertFile uzantısı için lisansları listeler.",
 	"apihelp-bs-insertfile-license-store-summary": "InsertFile uzantısı için lisansları listeler.",
 	"bs-insertfile-enable-align": "Etkinleştir",
 	"bs-insertfile-nstext": "Bağlantı türü",

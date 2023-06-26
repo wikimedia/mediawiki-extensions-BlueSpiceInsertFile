@@ -39,7 +39,6 @@
 	"bs-insertfile-no-link": "لا يوجد رابط",
 	"bs-insertfile-error-no-medialink": "لم يتم تحديد رابط وسائط.",
 	"bs-insertfile-error-no-imagelink": "لم يتم تحديد رابط صورة.",
-	"apihelp-bs-insertfile-license-store-description": "يسرد تراخيص الملحق InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "يسرد تراخيص الملحق InsertFile.",
 	"bs-insertfile-enable-align": "تمكين",
 	"bs-insertfile-nstext": "نوع الرابط",

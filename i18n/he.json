@@ -39,7 +39,6 @@
 	"bs-insertfile-no-link": "ללא קישור",
 	"bs-insertfile-error-no-medialink": "לא נבחר קישור למדיה.",
 	"bs-insertfile-error-no-imagelink": "לא נבחר קישור לתמונה.",
-	"apihelp-bs-insertfile-license-store-description": "קבלת רשימת הרישיונות עבור ההרחבה InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "קבלת רשימת הרישיונות עבור ההרחבה InsertFile.",
 	"bs-insertfile-enable-align": "מופעל",
 	"bs-insertfile-nstext": "סוג הקישור",

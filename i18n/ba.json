@@ -41,6 +41,5 @@
 	"bs-insertfile-linktext": "Күрһәтеләсәк текст",
 	"bs-insertfile-no-link": "Һылтанма юҡ",
 	"bs-insertfile-error-no-medialink": "Медиафайлға һылтанма һайланмаған",
-	"bs-insertfile-error-no-imagelink": "Рәсемгә һылтанма һайланмаған.",
-	"apihelp-bs-insertfile-license-store-description": "InsertFile-ды киңәйтеү өсөн лицензияларҙы һанай."
+	"bs-insertfile-error-no-imagelink": "Рәсемгә һылтанма һайланмаған."
 }

@@ -40,7 +40,6 @@
 	"bs-insertfile-no-link": "Nessun collegamento",
 	"bs-insertfile-error-no-medialink": "Nessun collegamento multimediale selezionato.",
 	"bs-insertfile-error-no-imagelink": "Immagine del collegamento non selezionata.",
-	"apihelp-bs-insertfile-license-store-description": "Elenca le licenze per l'estensione InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Elenca le licenze per l'estensione InsertFile.",
 	"bs-insertfile-enable-align": "Attiva",
 	"bs-insertfile-nstext": "Tipo di collegamento",

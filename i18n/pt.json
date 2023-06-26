@@ -39,7 +39,6 @@
 	"bs-insertfile-no-link": "Sem hiperligação",
 	"bs-insertfile-error-no-medialink": "Não foi selecionada nenhuma hiperligação para um ficheiro multimédia.",
 	"bs-insertfile-error-no-imagelink": "Não foi selecionada nenhuma hiperligação para uma imagem.",
-	"apihelp-bs-insertfile-license-store-description": "Lista as licenças para a extensão InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Lista as licenças para a extensão InsertFile.",
 	"bs-insertfile-enable-align": "Ativar",
 	"bs-insertfile-nstext": "Tipo de hiperligação",

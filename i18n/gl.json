@@ -38,7 +38,6 @@
 	"bs-insertfile-no-link": "Sen ligazón",
 	"bs-insertfile-error-no-medialink": "Non se seleccionou ningunha ligazón de multimedia.",
 	"bs-insertfile-error-no-imagelink": "Non se seleccionou ningunha ligazón de imaxe.",
-	"apihelp-bs-insertfile-license-store-description": "Lista as licenzas da extensión InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Lista as licenzas da extensión InsertFile.",
 	"bs-insertfile-enable-align": "Activar",
 	"bs-insertfile-nstext": "Tipo de ligazón",

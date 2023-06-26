@@ -42,7 +42,6 @@
 	"bs-insertfile-no-link": "Ni povezave",
 	"bs-insertfile-error-no-medialink": "Ni izbrana nobena povezava medijskih vsebin.",
 	"bs-insertfile-error-no-imagelink": "Ni izbrana nobena povezava slike.",
-	"apihelp-bs-insertfile-license-store-description": "Navede dovoljenja za razširitev InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Navede licence za razširitev InsertFile.",
 	"bs-insertfile-enable-align": "Omogoči",
 	"bs-insertfile-nstext": "Vrsta povezave",

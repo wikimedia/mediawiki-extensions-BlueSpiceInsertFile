@@ -40,7 +40,6 @@
 	"bs-insertfile-no-link": "लिंक नही",
 	"bs-insertfile-error-no-medialink": "कोई मीडिया लिंक चयनित नहीं है",
 	"bs-insertfile-error-no-imagelink": "कोई छवि लिंक चयनित नहीं है",
-	"apihelp-bs-insertfile-license-store-description": "इंसेर्टफ़ाइल एक्सटेंशन के लिए लाइसेंस की सूची",
 	"apihelp-bs-insertfile-license-store-summary": "इंसेर्टफ़ाइल एक्सटेंशन के लिए लाइसेंस की सूची",
 	"bs-insertfile-enable-align": "सक्षम करें",
 	"bs-insertfile-nstext": "लिंक प्रकार",

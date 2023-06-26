@@ -45,7 +45,6 @@
 	"bs-insertfile-no-link": "Нема везе",
 	"bs-insertfile-error-no-medialink": "Нема одабране везе медија.",
 	"bs-insertfile-error-no-imagelink": "Нема одабране везе слике.",
-	"apihelp-bs-insertfile-license-store-description": "Излистава лиценце за екстензију InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Излистава лиценце за екстензију InsertFile.",
 	"bs-insertfile-enable-align": "Омогући",
 	"bs-insertfile-nstext": "Врста везе",

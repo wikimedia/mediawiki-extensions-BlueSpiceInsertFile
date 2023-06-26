@@ -38,7 +38,6 @@
 	"bs-insertfile-no-link": "Nulle ligamine",
 	"bs-insertfile-error-no-medialink": "Nulle ligamine multimedial seligite.",
 	"bs-insertfile-error-no-imagelink": "Nulle ligamine de imagine seligite.",
-	"apihelp-bs-insertfile-license-store-description": "Lista le licentias pro le extension InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Lista le licentias pro le extension InsertFile.",
 	"bs-insertfile-enable-align": "Activar",
 	"bs-insertfile-nstext": "Typo de ligamine",

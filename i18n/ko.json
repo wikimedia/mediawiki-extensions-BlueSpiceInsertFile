@@ -42,7 +42,6 @@
 	"bs-insertfile-no-link": "링크 없음",
 	"bs-insertfile-error-no-medialink": "선택된 미디어 링크가 없습니다.",
 	"bs-insertfile-error-no-imagelink": "선택된 이미지 링크가 없습니다.",
-	"apihelp-bs-insertfile-license-store-description": "InsertFile 확장 기능의 라이선스를 나열합니다.",
 	"apihelp-bs-insertfile-license-store-summary": "InsertFile 확장 기능의 라이선스를 나열합니다.",
 	"bs-insertfile-enable-align": "사용",
 	"bs-insertfile-nstext": "링크 유형",

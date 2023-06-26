@@ -38,7 +38,6 @@
 	"bs-insertfile-no-link": "Nema veze",
 	"bs-insertfile-error-no-medialink": "Nema odabrane veze medija.",
 	"bs-insertfile-error-no-imagelink": "Nema odabrane veze slike.",
-	"apihelp-bs-insertfile-license-store-description": "Izlistava licence za ekstenziju InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Izlistava licence za ekstenziju InsertFile.",
 	"bs-insertfile-enable-align": "Omogući",
 	"bs-insertfile-nstext": "Vrsta veze",

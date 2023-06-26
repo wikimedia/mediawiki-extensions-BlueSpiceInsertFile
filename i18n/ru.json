@@ -44,7 +44,6 @@
 	"bs-insertfile-no-link": "Нет ссылки",
 	"bs-insertfile-error-no-medialink": "Не выбрана ссылка на медиафайл.",
 	"bs-insertfile-error-no-imagelink": "Ссылка на изображение не выбрано.",
-	"apihelp-bs-insertfile-license-store-description": "Перечисляет лицензии для расширения InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Перечисляет лицензии для расширения InsertFile.",
 	"bs-insertfile-enable-align": "Включить",
 	"bs-insertfile-nstext": "Тип ссылки",

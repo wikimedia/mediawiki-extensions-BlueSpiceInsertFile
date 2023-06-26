@@ -38,7 +38,6 @@
 	"bs-insertfile-no-link": "Ingen lenke",
 	"bs-insertfile-error-no-medialink": "Ingen medielenke valgt.",
 	"bs-insertfile-error-no-imagelink": "Ingen bildelenke valgt.",
-	"apihelp-bs-insertfile-license-store-description": "Lister opp lisensene for utvidelsen InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Lister opp lisensene for utvidelsen InsertFile.",
 	"bs-insertfile-enable-align": "Slå på",
 	"bs-insertfile-nstext": "Lenketype",

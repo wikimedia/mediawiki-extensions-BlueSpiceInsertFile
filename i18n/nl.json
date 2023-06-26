@@ -44,7 +44,6 @@
 	"bs-insertfile-no-link": "Geen koppeling",
 	"bs-insertfile-error-no-medialink": "Geen mediakoppeling geselecteerd.",
 	"bs-insertfile-error-no-imagelink": "Geen afbeeldingskoppeling geselecteerd.",
-	"apihelp-bs-insertfile-license-store-description": "Geeft een overzicht van de licenties voor de uitbreiding InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Geeft een overzicht van de licenties voor de uitbreiding InsertFile.",
 	"bs-insertfile-enable-align": "Inschakelen",
 	"bs-insertfile-nstext": "Koppelingstype",

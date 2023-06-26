@@ -43,7 +43,6 @@
 	"bs-insertfile-no-link": "無連結",
 	"bs-insertfile-error-no-medialink": "未選擇多媒體連結。",
 	"bs-insertfile-error-no-imagelink": "未選擇圖片連結。",
-	"apihelp-bs-insertfile-license-store-description": "列出 InsertFile 擴充的授權。",
 	"apihelp-bs-insertfile-license-store-summary": "列出 InsertFile 擴充的授權。",
 	"bs-insertfile-enable-align": "啟用",
 	"bs-insertfile-nstext": "連結類型",

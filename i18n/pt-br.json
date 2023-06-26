@@ -40,7 +40,6 @@
 	"bs-insertfile-no-link": "Sem link",
 	"bs-insertfile-error-no-medialink": "Nenhum link de mídia selecionado.",
 	"bs-insertfile-error-no-imagelink": "Nenhum link de imagem selecionado.",
-	"apihelp-bs-insertfile-license-store-description": "Lista as licenças para a extensão InsertFile.",
 	"apihelp-bs-insertfile-license-store-summary": "Lista as licenças para a extensão InsertFile.",
 	"bs-insertfile-enable-align": "Ativar",
 	"bs-insertfile-nstext": "Tipo de link",
