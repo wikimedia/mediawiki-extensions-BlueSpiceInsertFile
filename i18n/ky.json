@@ -4,6 +4,8 @@
 			"Bosogo"
 		]
 	},
+	"bs-insertfile-labelupload": "Жүктөө",
 	"bs-insertfile-details-title": "Чоо-жайы",
-	"bs-insertfile-labellink": "Шилтеме"
+	"bs-insertfile-labellink": "Шилтеме",
+	"bs-insertfile-nstextfile": "Файл"
 }
