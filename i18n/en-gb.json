@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Bjh21",
-			"Shirayuki"
+			"Shirayuki",
+			"Piano1forte2"
 		]
 	},
+	"bs-insertfile-desc": "Dialogue to upload files and insert a file link",
 	"bs-insertfile-aligncenter": "centre",
 	"apihelp-bs-insertfile-license-store-description": "Lists the licences for the extension InsertFile."
 }
