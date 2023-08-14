@@ -11,5 +11,7 @@
 	"bs-insertfile-labelfilter": "Чыпка:",
 	"bs-insertfile-alignright": "укук",
 	"bs-insertfile-insert-image": "Сүрөт кошуу",
-	"bs-insertfile-titleimage": "Сүрөт кошуу"
+	"bs-insertfile-titleimage": "Сүрөт кошуу",
+	"bs-insertfile-insert-file": "Файл кошуу",
+	"bs-insertfile-filename": "Файлдын аталышы"
 }
