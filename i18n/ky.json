@@ -5,7 +5,9 @@
 		]
 	},
 	"bs-insertfile-insert-image": "Сүрөт кошуу",
+	"bs-insertfile-insert-file": "Файл кошуу",
 	"bs-insertfile-labelfilter": "Чыпка:",
+	"bs-insertfile-filename": "Файлдын аталышы",
 	"bs-insertfile-labelupload": "Жүктөө",
 	"bs-insertfile-details-title": "Чоо-жайы",
 	"bs-insertfile-labellink": "Шилтеме",
