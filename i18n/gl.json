@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Elisardojm"
+			"Elisardojm",
+			"Toliño"
 		]
 	},
 	"bs-insertfile-desc": "Cadro de diálogo para subir ficheiros e inserir unha ligazón de ficheiro",
@@ -44,5 +45,6 @@
 	"bs-insertfile-nstextfile": "Ficheiro",
 	"bs-insertfile-nstextfile-file": "Amosar ligazón ós metadatos",
 	"bs-insertfile-nstextfile-image": "Amosar imaxe",
-	"bs-insertfile-nstextmedia": "Amosar ligazón de descarga"
+	"bs-insertfile-nstextmedia": "Amosar ligazón de descarga",
+	"bs-insertfile-advanced-search-panel-label": "Procura avanzada"
 }
