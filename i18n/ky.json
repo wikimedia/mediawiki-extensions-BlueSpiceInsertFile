@@ -4,5 +4,14 @@
 			"Bosogo"
 		]
 	},
-	"bs-insertfile-details-title": "Чоо-жайы"
+	"bs-insertfile-details-title": "Чоо-жайы",
+	"bs-insertfile-insert-image": "Сүрөт кошуу",
+	"bs-insertfile-insert-file": "Файл кошуу",
+	"bs-insertfile-labelfilter": "Чыпка:",
+	"bs-insertfile-filename": "Файлдын аталышы",
+	"bs-insertfile-labelupload": "Жүктөө",
+	"bs-insertfile-labellink": "Шилтеме",
+	"bs-insertfile-alignright": "укук",
+	"bs-insertfile-titleimage": "Сүрөт кошуу",
+	"bs-insertfile-nstextfile": "Файл"
 }
