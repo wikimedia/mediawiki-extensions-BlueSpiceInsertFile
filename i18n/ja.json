@@ -47,5 +47,6 @@
 	"bs-insertfile-nstextfile-file": "メタデータへのリンクを表示",
 	"bs-insertfile-nstextfile-image": "画像を表示",
 	"bs-insertfile-nstextmedia": "ダウンロードリンクを表示",
-	"bs-insertfile-advanced-search-panel-label": "高度な検索"
+	"bs-insertfile-advanced-search-panel-label": "高度な検索",
+	"apihelp-bs-insertfile-license-store-summary": "拡張機能 InsertFile のライセンスをリストします。"
 }
