@@ -41,6 +41,7 @@
 	"bs-insertfile-no-link": "リンクなし",
 	"bs-insertfile-error-no-medialink": "メディア リンクが選択されていません。",
 	"bs-insertfile-error-no-imagelink": "画像リンクが選択されていません。",
+	"apihelp-bs-insertfile-license-store-summary": "拡張機能 InsertFile のライセンスをリストします。",
 	"bs-insertfile-enable-align": "有効",
 	"bs-insertfile-nstext": "リンクの種類",
 	"bs-insertfile-nstextfile": "ファイル",
