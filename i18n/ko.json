@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dr1t jg",
 			"HDNua",
 			"Hwangjy9",
 			"Yearning",
@@ -50,5 +51,6 @@
 	"bs-insertfile-nstextfile-file": "메타데이터의 링크 표시",
 	"bs-insertfile-nstextfile-image": "그림 표시",
 	"bs-insertfile-nstextmedia": "다운로드 링크 표시",
-	"bs-insertfile-advanced-search-panel-label": "고급 검색"
+	"bs-insertfile-advanced-search-panel-label": "고급 검색",
+	"bs-insertfile-of": "오브"
 }
