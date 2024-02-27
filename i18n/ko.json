@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dr1t jg",
 			"HDNua",
 			"Hwangjy9",
 			"Yearning",
@@ -37,6 +38,7 @@
 	"bs-insertfile-titlefile": "파일 넣기",
 	"bs-insertfile-titleimage": "그림 넣기",
 	"bs-insertfile-tipkeepratio": "비율 유지",
+	"bs-insertfile-of": "오브",
 	"bs-insertfile-select-a-link": "링크를 선택하거나 입력하십시오",
 	"bs-insertfile-linktext": "텍스트 표시",
 	"bs-insertfile-no-link": "링크 없음",
