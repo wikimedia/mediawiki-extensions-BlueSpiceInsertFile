@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Alirezaaa",
+			"Ebraminio",
 			"FarsiNevis",
 			"Reza1615"
 		]
@@ -38,8 +39,8 @@
 	"bs-insertfile-select-a-link": "انتخاب یا نوشتن یک پیوند",
 	"bs-insertfile-linktext": "نمایش متن",
 	"bs-insertfile-no-link": "بدون پیوند",
-	"bs-insertfile-error-no-medialink": "پیوند هیچ پرونده‌ای انتخاب نشده‌است.",
-	"bs-insertfile-error-no-imagelink": "پیوند هیچ تصویری انتخاب نشده‌است.",
+	"bs-insertfile-error-no-medialink": "پیوند هیچ پرونده‌ای انتخاب نشده است.",
+	"bs-insertfile-error-no-imagelink": "پیوند هیچ تصویری انتخاب نشده است.",
 	"bs-insertfile-enable-align": "فعال‌سازی",
 	"bs-insertfile-nstext": "نوع پیوند",
 	"bs-insertfile-nstextfile": "پرونده",
