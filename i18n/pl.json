@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Chrumps",
-			"InternerowyGołąb"
+			"InternerowyGołąb",
+			"WaldiSt"
 		]
 	},
 	"bs-insertfile-insert-image": "Wstaw obrazek",
@@ -27,12 +28,15 @@
 	"bs-insertfile-typenone": "brak",
 	"bs-insertfile-typethumb": "miniatura",
 	"bs-insertfile-typeframe": "ramka",
+	"bs-insertfile-typeborder": "obramowanie",
 	"bs-insertfile-titlefile": "Wstaw plik",
 	"bs-insertfile-titleimage": "Wstaw obrazek",
 	"bs-insertfile-tipkeepratio": "Zachowaj proporcje",
 	"bs-insertfile-no-link": "Brak linku",
+	"bs-insertfile-enable-align": "Włącz",
 	"bs-insertfile-nstext": "Typ łącza",
 	"bs-insertfile-nstextfile": "Plik",
+	"bs-insertfile-nstextfile-file": "Pokaż link do metadanych",
 	"bs-insertfile-nstextfile-image": "Pokaż obrazek",
 	"bs-insertfile-nstextmedia": "Pokaż link pobierania",
 	"bs-insertfile-advanced-search-panel-label": "Wyszukiwanie zaawansowane"
