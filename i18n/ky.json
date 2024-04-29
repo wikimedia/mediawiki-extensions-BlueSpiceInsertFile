@@ -4,14 +4,14 @@
 			"Bosogo"
 		]
 	},
-	"bs-insertfile-details-title": "Чоо-жайы",
-	"bs-insertfile-labellink": "Шилтеме",
-	"bs-insertfile-labelupload": "Жүктөө",
-	"bs-insertfile-nstextfile": "Файл",
-	"bs-insertfile-labelfilter": "Чыпка:",
-	"bs-insertfile-alignright": "укук",
-	"bs-insertfile-insert-image": "Сүрөт кошуу",
-	"bs-insertfile-titleimage": "Сүрөт кошуу",
-	"bs-insertfile-insert-file": "Файл кошуу",
-	"bs-insertfile-filename": "Файлдын аталышы"
+	"bs-insertfile-details-title": "\u0427\u043e\u043e-\u0436\u0430\u0439\u044b",
+	"bs-insertfile-labellink": "\u0428\u0438\u043b\u0442\u0435\u043c\u0435",
+	"bs-insertfile-labelupload": "\u0416\u04af\u043a\u0442\u04e9\u04e9",
+	"bs-insertfile-nstextfile": "\u0424\u0430\u0439\u043b",
+	"bs-insertfile-labelfilter": "\u0427\u044b\u043f\u043a\u0430:",
+	"bs-insertfile-alignright": "\u0443\u043a\u0443\u043a",
+	"bs-insertfile-insert-image": "\u0421\u04af\u0440\u04e9\u0442 \u043a\u043e\u0448\u0443\u0443",
+	"bs-insertfile-titleimage": "\u0421\u04af\u0440\u04e9\u0442 \u043a\u043e\u0448\u0443\u0443",
+	"bs-insertfile-insert-file": "\u0424\u0430\u0439\u043b \u043a\u043e\u0448\u0443\u0443",
+	"bs-insertfile-filename": "\u0424\u0430\u0439\u043b\u0434\u044b\u043d \u0430\u0442\u0430\u043b\u044b\u0448\u044b"
 }
