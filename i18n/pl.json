@@ -2,7 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Chrumps",
-			"InternerowyGo\u0142\u0105b",
+			"InternerowyGołąb",
 			"WaldiSt"
 		]
 	},
@@ -15,15 +15,15 @@
 	"bs-insertfile-filename": "Nazwa pliku",
 	"bs-insertfile-filesize": "Rozmiar pliku",
 	"bs-insertfile-lastmodified": "Ostatnie zmiany",
-	"bs-insertfile-labelupload": "Prze\u015blij",
-	"bs-insertfile-details-title": "Szczeg\u00f3\u0142y",
+	"bs-insertfile-labelupload": "Prześlij",
+	"bs-insertfile-details-title": "Szczegóły",
 	"bs-insertfile-labeldimensions": "Rozmiar (szer. x wys.)",
 	"bs-insertfile-labelalt": "Tekst alternatywny",
-	"bs-insertfile-labelalign": "Wyr\u00f3wnanie",
+	"bs-insertfile-labelalign": "Wyrównanie",
 	"bs-insertfile-labellink": "Link",
 	"bs-insertfile-alignnone": "brak",
 	"bs-insertfile-alignleft": "do lewej",
-	"bs-insertfile-aligncenter": "na \u015brodku",
+	"bs-insertfile-aligncenter": "na środku",
 	"bs-insertfile-alignright": "do prawej",
 	"bs-insertfile-typenone": "brak",
 	"bs-insertfile-typethumb": "miniatura",
@@ -32,12 +32,12 @@
 	"bs-insertfile-titleimage": "Wstaw obrazek",
 	"bs-insertfile-tipkeepratio": "Zachowaj proporcje",
 	"bs-insertfile-no-link": "Brak linku",
-	"bs-insertfile-nstext": "Typ \u0142\u0105cza",
+	"bs-insertfile-nstext": "Typ łącza",
 	"bs-insertfile-nstextfile": "Plik",
-	"bs-insertfile-nstextfile-image": "Poka\u017c obrazek",
-	"bs-insertfile-nstextmedia": "Poka\u017c link pobierania",
+	"bs-insertfile-nstextfile-image": "Pokaż obrazek",
+	"bs-insertfile-nstextmedia": "Pokaż link pobierania",
 	"bs-insertfile-advanced-search-panel-label": "Wyszukiwanie zaawansowane",
 	"bs-insertfile-typeborder": "obramowanie",
-	"bs-insertfile-enable-align": "W\u0142\u0105cz",
-	"bs-insertfile-nstextfile-file": "Poka\u017c link do metadanych"
+	"bs-insertfile-enable-align": "Włącz",
+	"bs-insertfile-nstextfile-file": "Pokaż link do metadanych"
 }

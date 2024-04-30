@@ -7,12 +7,12 @@
 			"Wertuose"
 		]
 	},
-	"bs-insertfile-insert-file": "Fayl \u0259lav\u0259 et",
-	"bs-insertfile-labelalt": "Alternativ m\u0259tn",
-	"bs-insertfile-alignnone": "he\u00e7 biri",
+	"bs-insertfile-insert-file": "Fayl əlavə et",
+	"bs-insertfile-labelalt": "Alternativ mətn",
+	"bs-insertfile-alignnone": "heç biri",
 	"bs-insertfile-alignleft": "sol",
 	"bs-insertfile-aligncenter": "orta",
-	"bs-insertfile-alignright": "sa\u011f",
-	"bs-insertfile-titlefile": "Fayl \u0259lav\u0259 et",
-	"bs-insertfile-advanced-search-panel-label": "\u018ftrafl\u0131 axtar\u0131\u015f"
+	"bs-insertfile-alignright": "sağ",
+	"bs-insertfile-titlefile": "Fayl əlavə et",
+	"bs-insertfile-advanced-search-panel-label": "Ətraflı axtarış"
 }
