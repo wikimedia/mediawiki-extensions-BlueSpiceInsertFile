@@ -3,22 +3,22 @@
 		"authors": [
 			"Aram1985",
 			"Kareyac",
-			"\u054d\u0565\u0580\u0563\u0565\u0575 \u054d\u0561\u0586\u0561\u0580\u0575\u0561\u0576"
+			"Սերգեյ Սաֆարյան"
 		]
 	},
-	"bs-insertfile-labelfilter": "\u0536\u057f\u056b\u0579\u055d",
-	"bs-insertfile-filename": "\u0546\u056b\u0577\u0584\u056b \u0561\u0576\u057e\u0561\u0576\u0578\u0582\u0574",
-	"bs-insertfile-filesize": "\u0546\u056b\u0577\u0584\u056b \u0579\u0561\u0583",
-	"bs-insertfile-lastmodified": "\u054e\u0565\u0580\u057b\u056b\u0576 \u0583\u0578\u0583\u0578\u056d\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0576\u0565\u0580",
-	"bs-insertfile-details-title": "\u0544\u0561\u0576\u0580\u0561\u0574\u0561\u057d\u0576\u0565\u0580",
-	"bs-insertfile-labellink": "\u0540\u0572\u0578\u0582\u0574",
-	"bs-insertfile-alignleft": "\u0571\u0561\u056d",
-	"bs-insertfile-aligncenter": "\u056f\u0565\u0576\u057f\u0580\u0578\u0576",
-	"bs-insertfile-alignright": "\u0561\u057b",
-	"bs-insertfile-typeframe": "\u0577\u0580\u057b\u0561\u0576\u0561\u056f",
-	"bs-insertfile-typeborder": "\u0577\u0580\u057b\u0561\u0576\u0561\u056f",
-	"bs-insertfile-nstextfile": "\u0546\u056b\u0577\u0584",
-	"bs-insertfile-nstextfile-image": "\u0551\u0578\u0582\u0581\u0561\u0564\u0580\u0565\u056c \u057a\u0561\u057f\u056f\u0565\u0580\u0568",
-	"bs-insertfile-nstextmedia": "\u0551\u0578\u0582\u0581\u0561\u0564\u0580\u0565\u056c \u0576\u0565\u0580\u0562\u0565\u057c\u0576\u0574\u0561\u0576 \u0570\u0572\u0578\u0582\u0574\u0568",
-	"bs-insertfile-labelupload": "\u054e\u0565\u0580\u0562\u0565\u057c\u0576\u0565\u056c"
+	"bs-insertfile-labelfilter": "Զտիչ՝",
+	"bs-insertfile-filename": "Նիշքի անվանում",
+	"bs-insertfile-filesize": "Նիշքի չափ",
+	"bs-insertfile-lastmodified": "Վերջին փոփոխություններ",
+	"bs-insertfile-details-title": "Մանրամասներ",
+	"bs-insertfile-labellink": "Հղում",
+	"bs-insertfile-alignleft": "ձախ",
+	"bs-insertfile-aligncenter": "կենտրոն",
+	"bs-insertfile-alignright": "աջ",
+	"bs-insertfile-typeframe": "շրջանակ",
+	"bs-insertfile-typeborder": "շրջանակ",
+	"bs-insertfile-nstextfile": "Նիշք",
+	"bs-insertfile-nstextfile-image": "Ցուցադրել պատկերը",
+	"bs-insertfile-nstextmedia": "Ցուցադրել ներբեռնման հղումը",
+	"bs-insertfile-labelupload": "Վերբեռնել"
 }

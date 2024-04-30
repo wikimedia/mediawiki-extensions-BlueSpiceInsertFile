@@ -4,7 +4,7 @@
 			"Joetaras"
 		]
 	},
-	"bs-insertfile-desc": "Fenestre pe carec\u00e0 file e sckaff\u00e0 'nu collegamende a 'u file",
+	"bs-insertfile-desc": "Fenestre pe carecà file e sckaffà 'nu collegamende a 'u file",
 	"bs-insertfile-insert-image": "'Nzerisce 'n'immaggine",
 	"bs-insertfile-insert-file": "'Nzerisce 'nu file",
 	"bs-insertfile-button-image-title": "'Nzerisce o cange 'n'immaggine",
@@ -31,10 +31,10 @@
 	"bs-insertfile-typeborder": "borde",
 	"bs-insertfile-titlefile": "'Nzerisce 'nu file",
 	"bs-insertfile-titleimage": "'Nzerisce 'n'immaggine",
-	"bs-insertfile-tipkeepratio": "Mand\u00ecne le proporziune",
+	"bs-insertfile-tipkeepratio": "Mandìne le proporziune",
 	"bs-insertfile-of": "de",
 	"bs-insertfile-select-a-link": "Scacchie o scrive 'nu collegamende",
-	"bs-insertfile-linktext": "F\u00e0 'ndruc\u00e0 'u teste",
+	"bs-insertfile-linktext": "Fà 'ndrucà 'u teste",
 	"bs-insertfile-no-link": "Nisciune collegamende",
 	"bs-insertfile-error-no-medialink": "Nisciune collegamende a media scacchiate.",
 	"bs-insertfile-error-no-imagelink": "Nisciune collegamende a immaggine scacchiate.",
@@ -43,8 +43,8 @@
 	"bs-insertfile-enable-align": "Abbilite",
 	"bs-insertfile-nstext": "Tipe de collegamende",
 	"bs-insertfile-nstextfile": "File",
-	"bs-insertfile-nstextfile-file": "F\u00e0 'ndruc\u00e0 'u collegamende a 'u metadate",
-	"bs-insertfile-nstextfile-image": "F\u00e0 'ndruc\u00e0 l'immaggine",
-	"bs-insertfile-nstextmedia": "F\u00e0 'ndruc\u00e0 'u collegamende pe scarec\u00e0",
+	"bs-insertfile-nstextfile-file": "Fà 'ndrucà 'u collegamende a 'u metadate",
+	"bs-insertfile-nstextfile-image": "Fà 'ndrucà l'immaggine",
+	"bs-insertfile-nstextmedia": "Fà 'ndrucà 'u collegamende pe scarecà",
 	"bs-insertfile-advanced-search-panel-label": "Ricerche avanzate"
 }

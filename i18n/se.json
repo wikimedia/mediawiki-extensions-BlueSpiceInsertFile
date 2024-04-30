@@ -1,7 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kimberli M\u00e4k\u00e4r\u00e4inen (WMNO)",
+			"Kimberli Mäkäräinen (WMNO)",
 			"Yupik"
 		]
 	},
@@ -10,11 +10,11 @@
 	"bs-insertfile-labelfilter": "Silli:",
 	"bs-insertfile-filename": "Fiilanamma",
 	"bs-insertfile-labeldimensions": "Sturrodat (govdodat x allodat)",
-	"bs-insertfile-labellink": "Li\u014bka",
-	"bs-insertfile-typethumb": "gova\u0161",
+	"bs-insertfile-labellink": "Liŋka",
+	"bs-insertfile-typethumb": "govaš",
 	"bs-insertfile-titlefile": "Lasit fiilla",
 	"bs-insertfile-nomatch": "Eai bohtosat",
-	"bs-insertfile-labelalt": "Molssaevttola\u0161 teaksta",
+	"bs-insertfile-labelalt": "Molssaevttolaš teaksta",
 	"bs-insertfile-advanced-search-panel-label": "Aiddostahttojuvvon ohcan",
 	"bs-insertfile-filesize": "Fiilasturrodat",
 	"bs-insertfile-nstextfile": "Fiila"

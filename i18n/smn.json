@@ -5,17 +5,17 @@
 			"Yupik"
 		]
 	},
-	"bs-insertfile-filename": "Ti\u00e4tuvu\u00e1rkk\u00e1nomm\u00e2",
-	"bs-insertfile-filesize": "Ti\u00e4tuvu\u00e1rkk\u00e1stu\u00e1rud\u00e2h",
-	"bs-insertfile-lastmodified": "Vor\u00e2s nub\u00e1stusah",
+	"bs-insertfile-filename": "Tiätuvuárkkánommâ",
+	"bs-insertfile-filesize": "Tiätuvuárkkástuárudâh",
+	"bs-insertfile-lastmodified": "Vorâs nubástusah",
 	"bs-insertfile-labelupload": "Vuorkkii",
-	"bs-insertfile-labellink": "Li\u014bkk\u00e2",
+	"bs-insertfile-labellink": "Liŋkkâ",
 	"bs-insertfile-typethumb": "miniatyyrkove",
-	"bs-insertfile-nstextfile": "Ti\u00e4tuvu\u00e1rkk\u00e1",
-	"bs-insertfile-advanced-search-panel-label": "Vij\u0111edum uucc\u00e2m",
-	"bs-insertfile-insert-file": "Lasseet ti\u00e4tuvu\u00e1rh\u00e1",
-	"bs-insertfile-button-file-title": "Lasseet teikk\u00e2 mute ti\u00e4tuvu\u00e1rh\u00e1",
-	"bs-insertfile-labeldimensions": "Stu\u00e1rud\u00e2h (kobdod\u00e2h x alod\u00e2h)",
-	"bs-insertfile-titlefile": "Lasseet ti\u00e4tuvu\u00e1rh\u00e1",
+	"bs-insertfile-nstextfile": "Tiätuvuárkká",
+	"bs-insertfile-advanced-search-panel-label": "Vijđedum uuccâm",
+	"bs-insertfile-insert-file": "Lasseet tiätuvuárhá",
+	"bs-insertfile-button-file-title": "Lasseet teikkâ mute tiätuvuárhá",
+	"bs-insertfile-labeldimensions": "Stuárudâh (kobdodâh x alodâh)",
+	"bs-insertfile-titlefile": "Lasseet tiätuvuárhá",
 	"bs-insertfile-labelfilter": "Sillee:"
 }
