@@ -5,7 +5,7 @@
 		]
 	},
 	"bs-insertfile-labelfilter": "Луьттург:",
-	"bs-insertfile-labelalt": "Альтернативин йоза",
+	"bs-insertfile-labelalt": "Альтернативин текст",
 	"bs-insertfile-alignleft": "аьрру",
 	"bs-insertfile-alignright": "аьтту",
 	"bs-insertfile-typenone": "хӀан-хӀа",
@@ -34,7 +34,7 @@
 	"bs-insertfile-titleimage": "Чудилла сурт",
 	"bs-insertfile-tipkeepratio": "Пропорцеш Ӏалашйе",
 	"bs-insertfile-select-a-link": "Харжа йа йазйе хьажорг",
-	"bs-insertfile-linktext": "Гушдолу йоза",
+	"bs-insertfile-linktext": "Гушдолу текст",
 	"bs-insertfile-no-link": "Хьажорг йац",
 	"bs-insertfile-error-no-medialink": "Медиафайл тӀе хьажорг хаьржина йац.",
 	"bs-insertfile-error-no-imagelink": "Сурт тӀе хьажорг хаьржина йац.",
