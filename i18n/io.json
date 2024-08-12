@@ -6,6 +6,7 @@
 		]
 	},
 	"bs-insertfile-insert-file": "Inkluzar arkivo",
+	"bs-insertfile-filename": "Nomo dil arkivo",
 	"bs-insertfile-labelupload": "Kargar",
 	"bs-insertfile-labeldimensions": "Grandeso (w x h)",
 	"bs-insertfile-labellink": "Ligilo",
