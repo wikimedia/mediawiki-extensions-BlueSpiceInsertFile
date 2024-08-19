@@ -6,15 +6,16 @@
 		]
 	},
 	"bs-insertfile-insert-file": "Inkluzar arkivo",
+	"bs-insertfile-filename": "Nomo dil arkivo",
 	"bs-insertfile-labelupload": "Kargar",
 	"bs-insertfile-labeldimensions": "Grandeso (w x h)",
 	"bs-insertfile-labellink": "Ligilo",
 	"bs-insertfile-alignnone": "nulo",
 	"bs-insertfile-alignleft": "sinistre",
+	"bs-insertfile-alignright": "dextre",
 	"bs-insertfile-typenone": "nulo",
 	"bs-insertfile-typethumb": "miniaturo",
 	"bs-insertfile-titlefile": "Inkluzar arkivo",
 	"bs-insertfile-enable-align": "Permisar",
-	"bs-insertfile-nstextfile": "Arkivo",
-	"bs-insertfile-alignright": "dextre"
+	"bs-insertfile-nstextfile": "Arkivo"
 }
