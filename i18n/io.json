@@ -16,5 +16,6 @@
 	"bs-insertfile-titlefile": "Inkluzar arkivo",
 	"bs-insertfile-enable-align": "Permisar",
 	"bs-insertfile-nstextfile": "Arkivo",
-	"bs-insertfile-alignright": "dextre"
+	"bs-insertfile-alignright": "dextre",
+	"bs-insertfile-filename": "Nomo dil arkivo"
 }
