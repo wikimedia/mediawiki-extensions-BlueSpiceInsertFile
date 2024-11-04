@@ -4,14 +4,14 @@
 			"Bosogo"
 		]
 	},
+	"bs-insertfile-insert-image": "Сүрөт кошуу",
+	"bs-insertfile-insert-file": "Файл кошуу",
+	"bs-insertfile-labelfilter": "Чыпка:",
+	"bs-insertfile-filename": "Файлдын аталышы",
+	"bs-insertfile-labelupload": "Жүктөө",
 	"bs-insertfile-details-title": "Чоо-жайы",
 	"bs-insertfile-labellink": "Шилтеме",
-	"bs-insertfile-labelupload": "Жүктөө",
-	"bs-insertfile-nstextfile": "Файл",
-	"bs-insertfile-labelfilter": "Чыпка:",
 	"bs-insertfile-alignright": "укук",
-	"bs-insertfile-insert-image": "Сүрөт кошуу",
 	"bs-insertfile-titleimage": "Сүрөт кошуу",
-	"bs-insertfile-insert-file": "Файл кошуу",
-	"bs-insertfile-filename": "Файлдын аталышы"
+	"bs-insertfile-nstextfile": "Файл"
 }

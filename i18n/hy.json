@@ -10,6 +10,7 @@
 	"bs-insertfile-filename": "Նիշքի անվանում",
 	"bs-insertfile-filesize": "Նիշքի չափ",
 	"bs-insertfile-lastmodified": "Վերջին փոփոխություններ",
+	"bs-insertfile-labelupload": "Վերբեռնել",
 	"bs-insertfile-details-title": "Մանրամասներ",
 	"bs-insertfile-labellink": "Հղում",
 	"bs-insertfile-alignleft": "ձախ",
@@ -19,6 +20,5 @@
 	"bs-insertfile-typeborder": "շրջանակ",
 	"bs-insertfile-nstextfile": "Նիշք",
 	"bs-insertfile-nstextfile-image": "Ցուցադրել պատկերը",
-	"bs-insertfile-nstextmedia": "Ցուցադրել ներբեռնման հղումը",
-	"bs-insertfile-labelupload": "Վերբեռնել"
+	"bs-insertfile-nstextmedia": "Ցուցադրել ներբեռնման հղումը"
 }
