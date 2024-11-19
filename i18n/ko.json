@@ -7,7 +7,8 @@
 			"Yearning",
 			"Ykhwong",
 			"Yunbj",
-			"아라"
+			"아라",
+			"Suleiman the Magnificent Television"
 		]
 	},
 	"bs-insertfile-desc": "파일 업로드 및 파일 링크 삽입 대화 상자",
@@ -38,6 +39,7 @@
 	"bs-insertfile-titlefile": "파일 넣기",
 	"bs-insertfile-titleimage": "그림 넣기",
 	"bs-insertfile-tipkeepratio": "비율 유지",
+	"bs-insertfile-of": "의",
 	"bs-insertfile-select-a-link": "링크를 선택하거나 입력하십시오",
 	"bs-insertfile-linktext": "텍스트 표시",
 	"bs-insertfile-no-link": "링크 없음",
