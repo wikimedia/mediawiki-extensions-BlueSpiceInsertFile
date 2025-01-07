@@ -16,6 +16,8 @@
 	"bs-insertfile-labellink": "Liŋka",
 	"bs-insertfile-typethumb": "govaš",
 	"bs-insertfile-titlefile": "Lasit fiilla",
+	"bs-insertfile-error-no-medialink": "Ii oktage medialiŋka leat válljejuvvon.",
+	"bs-insertfile-error-no-imagelink": "Ii oktage govvaliŋka leat válljejuvvon.",
 	"bs-insertfile-nstextfile": "Fiila",
 	"bs-insertfile-advanced-search-panel-label": "Aiddostahttojuvvon ohcan"
 }

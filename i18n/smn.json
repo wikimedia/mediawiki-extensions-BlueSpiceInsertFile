@@ -16,6 +16,8 @@
 	"bs-insertfile-labellink": "Liŋkkâ",
 	"bs-insertfile-typethumb": "miniatyyrkove",
 	"bs-insertfile-titlefile": "Lasseet tiätuvuárhá",
+	"bs-insertfile-error-no-medialink": "Ohtâgin medialiŋkkâ ij lah väljejum.",
+	"bs-insertfile-error-no-imagelink": "Ohtâgin koveliŋkkâ ij lah väljejum.",
 	"bs-insertfile-nstextfile": "Tiätuvuárkká",
 	"bs-insertfile-advanced-search-panel-label": "Vijđedum uuccâm"
 }
