@@ -17,5 +17,7 @@
 	"bs-insertfile-button-file-title": "Lasseet teikkâ mute tiätuvuárhá",
 	"bs-insertfile-labeldimensions": "Stuárudâh (kobdodâh x alodâh)",
 	"bs-insertfile-titlefile": "Lasseet tiätuvuárhá",
-	"bs-insertfile-labelfilter": "Sillee:"
+	"bs-insertfile-labelfilter": "Sillee:",
+	"bs-insertfile-error-no-medialink": "Ohtâgin medialiŋkkâ ij lah väljejum.",
+	"bs-insertfile-error-no-imagelink": "Ohtâgin koveliŋkkâ ij lah väljejum."
 }
