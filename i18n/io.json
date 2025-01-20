@@ -17,5 +17,6 @@
 	"bs-insertfile-enable-align": "Permisar",
 	"bs-insertfile-nstextfile": "Arkivo",
 	"bs-insertfile-alignright": "dextre",
-	"bs-insertfile-filename": "Nomo dil arkivo"
+	"bs-insertfile-filename": "Nomo dil arkivo",
+	"bs-insertfile-details-title": "Detali"
 }
