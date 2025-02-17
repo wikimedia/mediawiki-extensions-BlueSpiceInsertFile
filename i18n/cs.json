@@ -6,10 +6,10 @@
 			"Meliganai"
 		]
 	},
-	"bs-insertfile-nstext": "Typ odkazu",
-	"bs-insertfile-nstextfile": "Soubor",
-	"bs-insertfile-nstextmedia": "Zobrazit odkaz ke stažení",
 	"bs-insertfile-desc": "Okno pro nahrání souborů a vložení odkazu na soubor",
 	"bs-insertfile-button-file-title": "Vložte nebo upravte soubor",
-	"bs-insertfile-filesize": "Velikost souboru"
+	"bs-insertfile-filesize": "Velikost souboru",
+	"bs-insertfile-nstext": "Typ odkazu",
+	"bs-insertfile-nstextfile": "Soubor",
+	"bs-insertfile-nstextmedia": "Zobrazit odkaz ke stažení"
 }
