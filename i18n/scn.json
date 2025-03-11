@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ajeje Brazorf"
+			"Ajeje Brazorf",
+			"GianAntonucci"
 		]
 	},
 	"bs-insertfile-insert-image": "Nzirisci mmàggini",
 	"bs-insertfile-insert-file": "Nzirisci file",
 	"bs-insertfile-labelfilter": "Filtru:",
 	"bs-insertfile-filename": "Nomu dû file",
-	"bs-insertfile-lastmodified": "Ùrtimi canciamenti",
+	"bs-insertfile-lastmodified": "Ùrtimi canci",
 	"bs-insertfile-details-title": "Dittagghî",
 	"bs-insertfile-alignnone": "nuḍḍu",
 	"bs-insertfile-alignleft": "manca",
