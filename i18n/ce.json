@@ -4,6 +4,7 @@
 			"Умар"
 		]
 	},
+	"bs-insertfile-desc": "Файлаш чуйахкаран а, файлан хьажорг чуйаккхаран а диалог",
 	"bs-insertfile-insert-image": "Чудилла сурт",
 	"bs-insertfile-insert-file": "Чуйилла файл",
 	"bs-insertfile-button-image-title": "Чудиллина таде сурт",
@@ -17,6 +18,7 @@
 	"bs-insertfile-details-title": "Мадарра",
 	"bs-insertfile-labeldimensions": "Барам (ш x л)",
 	"bs-insertfile-labelalt": "Альтернативин текст",
+	"bs-insertfile-labelalign": "Нисйар",
 	"bs-insertfile-labellink": "Хьажорг",
 	"bs-insertfile-alignnone": "хӀан-хӀа",
 	"bs-insertfile-alignleft": "аьрру",
@@ -36,6 +38,7 @@
 	"bs-insertfile-no-link": "Хьажорг йац",
 	"bs-insertfile-error-no-medialink": "Медиафайл тӀе хьажорг хаьржина йац.",
 	"bs-insertfile-error-no-imagelink": "Сурт тӀе хьажорг хаьржина йац.",
+	"apihelp-bs-insertfile-license-store-summary": "InsertFile шордаран лицензеш гайта.",
 	"bs-insertfile-enable-align": "Латайе",
 	"bs-insertfile-nstext": "Хьажорган тайпа",
 	"bs-insertfile-nstextfile": "Файл",
