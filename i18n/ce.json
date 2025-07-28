@@ -42,5 +42,8 @@
 	"bs-insertfile-nstextfile": "Файл",
 	"bs-insertfile-nstextfile-file": "Гайта хьажорг метахаамашна тӀе",
 	"bs-insertfile-nstextfile-image": "Гайта сурт",
-	"bs-insertfile-nstextmedia": "Схьаэца хьажорг гайта"
+	"bs-insertfile-nstextmedia": "Схьаэца хьажорг гайта",
+	"bs-insertfile-desc": "Файлаш чуйахкаран а, файлан хьажорг чуйаккхаран а диалог",
+	"bs-insertfile-labelalign": "Нисйар",
+	"apihelp-bs-insertfile-license-store-summary": "InsertFile шордаран лицензеш гайта."
 }
