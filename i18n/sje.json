@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Olve Utne"
+			"Olve Utne",
+			"Yupik"
 		]
 	},
+	"bs-insertfile-filesize": "Fijjlasturrudak",
 	"bs-insertfile-typethumb": "unnagåvåtj",
 	"bs-insertfile-nstextmedia": "Vuosedä vuluslässtimliŋkav"
 }
