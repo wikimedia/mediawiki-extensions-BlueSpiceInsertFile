@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ucukor",
 			"W"
 		]
 	},
@@ -15,6 +16,7 @@
 	"bs-insertfile-typeframe": "рамка",
 	"bs-insertfile-titlefile": "Уставіць файл",
 	"bs-insertfile-no-link": "Няма спасылкі",
+	"bs-insertfile-enable-align": "Увамкнуць",
 	"bs-insertfile-nstext": "Від спасылкі",
 	"bs-insertfile-nstextfile": "Файл",
 	"bs-insertfile-nstextfile-file": "Паказаць спасылку на мэтазьвесткі"

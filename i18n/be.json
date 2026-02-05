@@ -3,10 +3,12 @@
 		"authors": [
 			"Artsiom91",
 			"Da voli",
+			"Ucukor",
 			"Дзяніс Тутэйшы"
 		]
 	},
 	"bs-insertfile-alignleft": "злева",
+	"bs-insertfile-enable-align": "Увамкнуць",
 	"bs-insertfile-nstextfile-image": "Паказаць выяву",
 	"bs-insertfile-advanced-search-panel-label": "Пашыраны пошук"
 }
