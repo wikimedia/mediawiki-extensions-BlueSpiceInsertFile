@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ucukor",
 			"W"
 		]
 	},
@@ -17,5 +18,6 @@
 	"bs-insertfile-no-link": "Няма спасылкі",
 	"bs-insertfile-nstext": "Від спасылкі",
 	"bs-insertfile-nstextfile": "Файл",
-	"bs-insertfile-nstextfile-file": "Паказаць спасылку на мэтазьвесткі"
+	"bs-insertfile-nstextfile-file": "Паказаць спасылку на мэтазьвесткі",
+	"bs-insertfile-enable-align": "Увамкнуць"
 }
