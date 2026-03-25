@@ -4,13 +4,13 @@
 			"Умар"
 		]
 	},
-	"bs-insertfile-labelfilter": "Луьттург:",
+	"bs-insertfile-labelfilter": "Фильтр:",
 	"bs-insertfile-alignleft": "аьрру",
 	"bs-insertfile-alignright": "аьтту",
 	"bs-insertfile-typenone": "хӀан-хӀа",
 	"bs-insertfile-of": "чуьра",
 	"bs-insertfile-nstext": "Хьажорган тайпа",
-	"bs-insertfile-labelalt": "Альтернативин йоза",
+	"bs-insertfile-labelalt": "Альтернативин текст",
 	"bs-insertfile-advanced-search-panel-label": "Шуьйра лахар",
 	"bs-insertfile-insert-image": "Чудилла сурт",
 	"bs-insertfile-insert-file": "Чуйилла файл",
@@ -34,7 +34,7 @@
 	"bs-insertfile-titleimage": "Чудилла сурт",
 	"bs-insertfile-tipkeepratio": "Пропорцеш Ӏалашйе",
 	"bs-insertfile-select-a-link": "Харжа йа йазйе хьажорг",
-	"bs-insertfile-linktext": "Гушдолу йоза",
+	"bs-insertfile-linktext": "Гушдолу текст",
 	"bs-insertfile-no-link": "Хьажорг йац",
 	"bs-insertfile-error-no-medialink": "Медиафайл тӀе хьажорг хаьржина йац.",
 	"bs-insertfile-error-no-imagelink": "Сурт тӀе хьажорг хаьржина йац.",
@@ -42,5 +42,8 @@
 	"bs-insertfile-nstextfile": "Файл",
 	"bs-insertfile-nstextfile-file": "Гайта хьажорг метахаамашна тӀе",
 	"bs-insertfile-nstextfile-image": "Гайта сурт",
-	"bs-insertfile-nstextmedia": "Схьаэца хьажорг гайта"
+	"bs-insertfile-nstextmedia": "Схьаэца хьажорг гайта",
+	"bs-insertfile-desc": "Файлаш чуйахкаран а, файлан хьажорг чуйаккхаран а диалог",
+	"bs-insertfile-labelalign": "Нисйар",
+	"apihelp-bs-insertfile-license-store-summary": "InsertFile шордаран лицензеш гайта."
 }

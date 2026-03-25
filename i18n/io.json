@@ -16,5 +16,7 @@
 	"bs-insertfile-typethumb": "miniaturo",
 	"bs-insertfile-nstextfile": "Arkivo",
 	"bs-insertfile-labellink": "Ligilo",
-	"bs-insertfile-alignright": "dextre"
+	"bs-insertfile-alignright": "dextre",
+	"bs-insertfile-filename": "Nomo dil arkivo",
+	"bs-insertfile-details-title": "Detali"
 }

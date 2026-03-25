@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"BaRaN6161 TURK",
+			"Cobija",
 			"KediÇobanı",
 			"Sayginer",
 			"Trockya"
@@ -46,7 +47,7 @@
 	"bs-insertfile-enable-align": "Etkinleştir",
 	"bs-insertfile-nstext": "Bağlantı türü",
 	"bs-insertfile-nstextfile": "Dosya",
-	"bs-insertfile-nstextfile-file": "Meta veri bağlantısını göster",
+	"bs-insertfile-nstextfile-file": "Üstveri bağlantısını göster",
 	"bs-insertfile-nstextfile-image": "Resmi göster",
 	"bs-insertfile-nstextmedia": "İndirme bağlantısını göster",
 	"bs-insertfile-advanced-search-panel-label": "Gelişmiş arama"

@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Winston Sung"
+			"Winston Sung",
+			"Yueman"
 		]
 	},
-	"bs-insertfile-filesize": "快勞嘥士"
+	"bs-insertfile-filesize": "快勞嘥士",
+	"bs-insertfile-alignnone": "冇",
+	"bs-insertfile-typenone": "冇",
+	"bs-insertfile-typethumb": "縮圖",
+	"bs-insertfile-nstextfile": "檔案"
 }

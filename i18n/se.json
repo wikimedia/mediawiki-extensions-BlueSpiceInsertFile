@@ -17,5 +17,7 @@
 	"bs-insertfile-labelalt": "Molssaevttolaš teaksta",
 	"bs-insertfile-advanced-search-panel-label": "Aiddostahttojuvvon ohcan",
 	"bs-insertfile-filesize": "Fiilasturrodat",
-	"bs-insertfile-nstextfile": "Fiila"
+	"bs-insertfile-nstextfile": "Fiila",
+	"bs-insertfile-error-no-medialink": "Ii oktage medialiŋka leat válljejuvvon.",
+	"bs-insertfile-error-no-imagelink": "Ii oktage govvaliŋka leat válljejuvvon."
 }
