@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Aftabuzzaman",
+			"Bodhisattwa",
 			"আফতাবুজ্জামান"
 		]
 	},
@@ -9,5 +10,5 @@
 	"bs-insertfile-nstextfile": "ফাইল",
 	"bs-insertfile-nstextfile-image": "চিত্র দেখান",
 	"bs-insertfile-nstextmedia": "ডাউনলোডের সংযোগ দেখান",
-	"bs-insertfile-advanced-search-panel-label": "উচ্চতর অনুসন্ধান"
+	"bs-insertfile-advanced-search-panel-label": "উন্নত অনুসন্ধান"
 }
